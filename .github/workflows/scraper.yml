@@ -1,0 +1,40 @@
+name: Broadway HK Data Scraper
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  # Allows you to trigger the run manually from the Actions tab
+  workflow_dispatch:
+
+# Grants the action permission to push the JSON files back to your repo
+permissions:
+  contents: write
+
+jobs:
+  scrape_and_save:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run encoded scraper
+        # Passes the secret securely as a command-line argument
+        run: python HK_Whole_Run.py --key ${{ secrets.SUPER_KEY }}
+
+      - name: Commit and push JSON data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: Broadway HK Movie Data"
+          file_pattern: "data/*.json"
