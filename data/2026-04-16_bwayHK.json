@@ -1,5 +1,5 @@
 {
-    "scraped_at": "2026-04-16T19:08:47.625728",
+    "scraped_at": "2026-04-16T20:09:28.247242",
     "total_movies": 105,
     "movies": [
         {
@@ -76,12 +76,12 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
             },
             "performance_stats": {
-                "total_shows": 224,
-                "total_seats": 42760,
-                "tickets_sold": 2420,
-                "unsold_seats": 40340,
-                "occupancy_rate": "5.7%",
-                "total_revenue_hkd": 233940
+                "total_shows": 230,
+                "total_seats": 43534,
+                "tickets_sold": 2422,
+                "unsold_seats": 41112,
+                "occupancy_rate": "5.6%",
+                "total_revenue_hkd": 234150
             },
             "shows": [
                 {
@@ -3014,8 +3014,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 158
+                    "sold": 2,
+                    "avaliable": 156
                 },
                 {
                     "id": 81842,
@@ -11040,6 +11040,71 @@
                     "avaliable": 116
                 },
                 {
+                    "id": 84250,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T01:00:00.000Z",
+                    "price": 60,
+                    "fbPrice": 0,
+                    "tags": [
+                        "é ­å ´",
+                        "æ©å ´",
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 129,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 27,
+                        "name": "House 2",
+                        "name_lang": "{\"en\":\"House 2\",\"zh_hk\":\"2é¢\"}",
+                        "shortName": "2",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 767,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17999",
+                        "name": "Night King  (Directorâs Cut)",
+                        "name_lang": "{\"en\":\"Night King  (Directorâs Cut)\",\"zh_hk\":\"ãå¤çãï¼å°æ¼çï¼\"}",
+                        "seq": -21,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 163,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16NightKing.mp4",
+                        "images": [
+                            "programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 129
+                },
+                {
                     "id": 81775,
                     "published": true,
                     "hold": false,
@@ -11753,6 +11818,70 @@
                     "note": null,
                     "sold": 10,
                     "avaliable": 280
+                },
+                {
+                    "id": 84266,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T03:20:00.000Z",
+                    "price": 60,
+                    "fbPrice": 0,
+                    "tags": [
+                        "æ©å ´",
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 138,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 106,
+                        "name": "House 5",
+                        "name_lang": "{\"en\":\"House 5\",\"zh_hk\":\"5é¢\"}",
+                        "shortName": "5",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 767,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17999",
+                        "name": "Night King  (Directorâs Cut)",
+                        "name_lang": "{\"en\":\"Night King  (Directorâs Cut)\",\"zh_hk\":\"ãå¤çãï¼å°æ¼çï¼\"}",
+                        "seq": -21,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 163,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16NightKing.mp4",
+                        "images": [
+                            "programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 138
                 },
                 {
                     "id": 84231,
@@ -12512,6 +12641,69 @@
                     "avaliable": 278
                 },
                 {
+                    "id": 84267,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T06:15:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 138,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 106,
+                        "name": "House 5",
+                        "name_lang": "{\"en\":\"House 5\",\"zh_hk\":\"5é¢\"}",
+                        "shortName": "5",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 767,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17999",
+                        "name": "Night King  (Directorâs Cut)",
+                        "name_lang": "{\"en\":\"Night King  (Directorâs Cut)\",\"zh_hk\":\"ãå¤çãï¼å°æ¼çï¼\"}",
+                        "seq": -21,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 163,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16NightKing.mp4",
+                        "images": [
+                            "programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 138
+                },
+                {
                     "id": 84232,
                     "published": true,
                     "hold": false,
@@ -13266,6 +13458,69 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 290
+                },
+                {
+                    "id": 84268,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T09:10:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 138,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 106,
+                        "name": "House 5",
+                        "name_lang": "{\"en\":\"House 5\",\"zh_hk\":\"5é¢\"}",
+                        "shortName": "5",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 767,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17999",
+                        "name": "Night King  (Directorâs Cut)",
+                        "name_lang": "{\"en\":\"Night King  (Directorâs Cut)\",\"zh_hk\":\"ãå¤çãï¼å°æ¼çï¼\"}",
+                        "seq": -21,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 163,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16NightKing.mp4",
+                        "images": [
+                            "programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 138
                 },
                 {
                     "id": 84233,
@@ -14087,6 +14342,69 @@
                     "avaliable": 180
                 },
                 {
+                    "id": 84269,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T12:05:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 138,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 106,
+                        "name": "House 5",
+                        "name_lang": "{\"en\":\"House 5\",\"zh_hk\":\"5é¢\"}",
+                        "shortName": "5",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 767,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17999",
+                        "name": "Night King  (Directorâs Cut)",
+                        "name_lang": "{\"en\":\"Night King  (Directorâs Cut)\",\"zh_hk\":\"ãå¤çãï¼å°æ¼çï¼\"}",
+                        "seq": -21,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 163,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16NightKing.mp4",
+                        "images": [
+                            "programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 138
+                },
+                {
                     "id": 82013,
                     "published": true,
                     "hold": false,
@@ -14148,6 +14466,69 @@
                     "note": null,
                     "sold": 2,
                     "avaliable": 259
+                },
+                {
+                    "id": 84264,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T13:35:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 93,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 29,
+                        "name": "House 4",
+                        "name_lang": "{\"en\":\"House 4\",\"zh_hk\":\"4é¢\"}",
+                        "shortName": "4",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 767,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17999",
+                        "name": "Night King  (Directorâs Cut)",
+                        "name_lang": "{\"en\":\"Night King  (Directorâs Cut)\",\"zh_hk\":\"ãå¤çãï¼å°æ¼çï¼\"}",
+                        "seq": -21,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 163,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16NightKing.mp4",
+                        "images": [
+                            "programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 93
                 },
                 {
                     "id": 81996,
@@ -15441,11 +15822,11 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programEo_d5bce64c-fbca-4a52-b164-c29aebf7fbdd.jpg"
             },
             "performance_stats": {
-                "total_shows": 54,
-                "total_seats": 7177,
+                "total_shows": 56,
+                "total_seats": 7363,
                 "tickets_sold": 390,
-                "unsold_seats": 6787,
-                "occupancy_rate": "5.4%",
+                "unsold_seats": 6973,
+                "occupancy_rate": "5.3%",
                 "total_revenue_hkd": 11700
             },
             "shows": [
@@ -18145,6 +18526,68 @@
                     "avaliable": 180
                 },
                 {
+                    "id": 84258,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T01:00:00.000Z",
+                    "price": 30,
+                    "fbPrice": 0,
+                    "tags": [
+                        "é ­å ´",
+                        "æ©å ´"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 93,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 29,
+                        "name": "House 4",
+                        "name_lang": "{\"en\":\"House 4\",\"zh_hk\":\"4é¢\"}",
+                        "shortName": "4",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 758,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "18004",
+                        "name": "COLD WAR",
+                        "name_lang": "{\"en\":\"COLD WAR\",\"zh_hk\":\"å¯æ°\"}",
+                        "seq": -19,
+                        "subseq": 0,
+                        "category": "IIB",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 102,
+                        "trailer": "",
+                        "images": [
+                            "programEo_d5bce64c-fbca-4a52-b164-c29aebf7fbdd.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 93
+                },
+                {
                     "id": 77703,
                     "published": true,
                     "hold": false,
@@ -18261,6 +18704,65 @@
                     "note": null,
                     "sold": 12,
                     "avaliable": 107
+                },
+                {
+                    "id": 84260,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T05:25:00.000Z",
+                    "price": 30,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 93,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 29,
+                        "name": "House 4",
+                        "name_lang": "{\"en\":\"House 4\",\"zh_hk\":\"4é¢\"}",
+                        "shortName": "4",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 758,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "18004",
+                        "name": "COLD WAR",
+                        "name_lang": "{\"en\":\"COLD WAR\",\"zh_hk\":\"å¯æ°\"}",
+                        "seq": -19,
+                        "subseq": 0,
+                        "category": "IIB",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 102,
+                        "trailer": "",
+                        "images": [
+                            "programEo_d5bce64c-fbca-4a52-b164-c29aebf7fbdd.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 93
                 },
                 {
                     "id": 84225,
@@ -28153,11 +28655,11 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programQm_500efa11-5539-4866-9ca6-52ade3e9c374.jpg"
             },
             "performance_stats": {
-                "total_shows": 34,
-                "total_seats": 4753,
+                "total_shows": 37,
+                "total_seats": 5057,
                 "tickets_sold": 74,
-                "unsold_seats": 4679,
-                "occupancy_rate": "1.6%",
+                "unsold_seats": 4983,
+                "occupancy_rate": "1.5%",
                 "total_revenue_hkd": 6510
             },
             "shows": [
@@ -30134,6 +30636,129 @@
                     "avaliable": 113
                 },
                 {
+                    "id": 84259,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T02:55:00.000Z",
+                    "price": 60,
+                    "fbPrice": 0,
+                    "tags": [
+                        "æ©å ´",
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 93,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 29,
+                        "name": "House 4",
+                        "name_lang": "{\"en\":\"House 4\",\"zh_hk\":\"4é¢\"}",
+                        "shortName": "4",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 666,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17976",
+                        "name": "LEE CRONINâS THE MUMMY",
+                        "name_lang": "{\"en\":\"LEE CRONINâS THE MUMMY\",\"zh_hk\":\"æåå¯§ æ¨ä¹ä¼\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "English",
+                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 133,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16LeeCroninTheMummy_Online.mp4",
+                        "images": [
+                            "programQm_500efa11-5539-4866-9ca6-52ade3e9c374.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 93
+                },
+                {
+                    "id": 84247,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T09:15:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 82,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 26,
+                        "name": "House 1",
+                        "name_lang": "{\"en\":\"House 1\",\"zh_hk\":\"1é¢\"}",
+                        "shortName": "1",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 666,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17976",
+                        "name": "LEE CRONINâS THE MUMMY",
+                        "name_lang": "{\"en\":\"LEE CRONINâS THE MUMMY\",\"zh_hk\":\"æåå¯§ æ¨ä¹ä¼\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "English",
+                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 133,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16LeeCroninTheMummy_Online.mp4",
+                        "images": [
+                            "programQm_500efa11-5539-4866-9ca6-52ade3e9c374.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 82
+                },
+                {
                     "id": 84227,
                     "published": true,
                     "hold": false,
@@ -30193,6 +30818,67 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 113
+                },
+                {
+                    "id": 84256,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T14:05:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 129,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 27,
+                        "name": "House 2",
+                        "name_lang": "{\"en\":\"House 2\",\"zh_hk\":\"2é¢\"}",
+                        "shortName": "2",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 666,
+                        "openingDate": "2026-04-16T00:00:00.000Z",
+                        "extId": "17976",
+                        "name": "LEE CRONINâS THE MUMMY",
+                        "name_lang": "{\"en\":\"LEE CRONINâS THE MUMMY\",\"zh_hk\":\"æåå¯§ æ¨ä¹ä¼\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "English",
+                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 133,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16LeeCroninTheMummy_Online.mp4",
+                        "images": [
+                            "programQm_500efa11-5539-4866-9ca6-52ade3e9c374.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 129
                 },
                 {
                     "id": 84235,
@@ -35543,12 +36229,12 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programGo_78a1a055-fcc4-4794-a8a2-f13c77115102.jpg"
             },
             "performance_stats": {
-                "total_shows": 38,
-                "total_seats": 4504,
-                "tickets_sold": 189,
-                "unsold_seats": 4315,
-                "occupancy_rate": "4.2%",
-                "total_revenue_hkd": 21090
+                "total_shows": 41,
+                "total_seats": 4761,
+                "tickets_sold": 191,
+                "unsold_seats": 4570,
+                "occupancy_rate": "4.0%",
+                "total_revenue_hkd": 21290
             },
             "shows": [
                 {
@@ -36862,8 +37548,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 8,
-                    "avaliable": 95
+                    "sold": 10,
+                    "avaliable": 93
                 },
                 {
                     "id": 83906,
@@ -37811,6 +38497,185 @@
                     "note": null,
                     "sold": 3,
                     "avaliable": 182
+                },
+                {
+                    "id": 84244,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T03:00:00.000Z",
+                    "price": 60,
+                    "fbPrice": 0,
+                    "tags": [
+                        "æ©å ´"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 82,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 26,
+                        "name": "House 1",
+                        "name_lang": "{\"en\":\"House 1\",\"zh_hk\":\"1é¢\"}",
+                        "shortName": "1",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 760,
+                        "openingDate": "2026-04-09T00:00:00.000Z",
+                        "extId": "",
+                        "name": "The Drama",
+                        "name_lang": "{\"en\":\"The Drama\",\"zh_hk\":\"æ²åæ§å©ç¦®\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "IIB",
+                        "category2": null,
+                        "dialect": "English",
+                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 106,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-09TheDrama_LobbyTV.mp4",
+                        "images": [
+                            "programGo_78a1a055-fcc4-4794-a8a2-f13c77115102.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 82
+                },
+                {
+                    "id": 84261,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T07:20:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 93,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 29,
+                        "name": "House 4",
+                        "name_lang": "{\"en\":\"House 4\",\"zh_hk\":\"4é¢\"}",
+                        "shortName": "4",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 760,
+                        "openingDate": "2026-04-09T00:00:00.000Z",
+                        "extId": "",
+                        "name": "The Drama",
+                        "name_lang": "{\"en\":\"The Drama\",\"zh_hk\":\"æ²åæ§å©ç¦®\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "IIB",
+                        "category2": null,
+                        "dialect": "English",
+                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 106,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-09TheDrama_LobbyTV.mp4",
+                        "images": [
+                            "programGo_78a1a055-fcc4-4794-a8a2-f13c77115102.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 93
+                },
+                {
+                    "id": 84248,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T11:45:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 82,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 26,
+                        "name": "House 1",
+                        "name_lang": "{\"en\":\"House 1\",\"zh_hk\":\"1é¢\"}",
+                        "shortName": "1",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 760,
+                        "openingDate": "2026-04-09T00:00:00.000Z",
+                        "extId": "",
+                        "name": "The Drama",
+                        "name_lang": "{\"en\":\"The Drama\",\"zh_hk\":\"æ²åæ§å©ç¦®\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "IIB",
+                        "category2": null,
+                        "dialect": "English",
+                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 106,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-09TheDrama_LobbyTV.mp4",
+                        "images": [
+                            "programGo_78a1a055-fcc4-4794-a8a2-f13c77115102.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 82
                 }
             ]
         },
@@ -37888,11 +38753,11 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programYi_623eb978-f303-4f3d-a0e4-d7206c02e58e.jpg"
             },
             "performance_stats": {
-                "total_shows": 45,
-                "total_seats": 6134,
+                "total_shows": 49,
+                "total_seats": 6723,
                 "tickets_sold": 362,
-                "unsold_seats": 5772,
-                "occupancy_rate": "5.9%",
+                "unsold_seats": 6361,
+                "occupancy_rate": "5.4%",
                 "total_revenue_hkd": 31115
             },
             "shows": [
@@ -40758,6 +41623,260 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 158
+                },
+                {
+                    "id": 84265,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T01:00:00.000Z",
+                    "price": 60,
+                    "fbPrice": 0,
+                    "tags": [
+                        "é ­å ´",
+                        "æ©å ´",
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 138,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 106,
+                        "name": "House 5",
+                        "name_lang": "{\"en\":\"House 5\",\"zh_hk\":\"5é¢\"}",
+                        "shortName": "5",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 466,
+                        "openingDate": "2026-04-03T00:00:00.000Z",
+                        "extId": "17906",
+                        "name": "We're Nothing at All",
+                        "name_lang": "{\"en\":\"We're Nothing at All\",\"zh_hk\":\"æåä¸æ¯ä»éº¼\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 128,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-03We'reNothingAtAll.mp4",
+                        "images": [
+                            "programYi_623eb978-f303-4f3d-a0e4-d7206c02e58e.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 138
+                },
+                {
+                    "id": 84254,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T09:25:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 129,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 27,
+                        "name": "House 2",
+                        "name_lang": "{\"en\":\"House 2\",\"zh_hk\":\"2é¢\"}",
+                        "shortName": "2",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 466,
+                        "openingDate": "2026-04-03T00:00:00.000Z",
+                        "extId": "17906",
+                        "name": "We're Nothing at All",
+                        "name_lang": "{\"en\":\"We're Nothing at All\",\"zh_hk\":\"æåä¸æ¯ä»éº¼\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 128,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-03We'reNothingAtAll.mp4",
+                        "images": [
+                            "programYi_623eb978-f303-4f3d-a0e4-d7206c02e58e.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 129
+                },
+                {
+                    "id": 84255,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T11:45:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 129,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 27,
+                        "name": "House 2",
+                        "name_lang": "{\"en\":\"House 2\",\"zh_hk\":\"2é¢\"}",
+                        "shortName": "2",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 466,
+                        "openingDate": "2026-04-03T00:00:00.000Z",
+                        "extId": "17906",
+                        "name": "We're Nothing at All",
+                        "name_lang": "{\"en\":\"We're Nothing at All\",\"zh_hk\":\"æåä¸æ¯ä»éº¼\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 128,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-03We'reNothingAtAll.mp4",
+                        "images": [
+                            "programYi_623eb978-f303-4f3d-a0e4-d7206c02e58e.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 129
+                },
+                {
+                    "id": 84257,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T13:55:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [
+                        "III"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 193,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 28,
+                        "name": "House 3",
+                        "name_lang": "{\"en\":\"House 3\",\"zh_hk\":\"3é¢\"}",
+                        "shortName": "3",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 466,
+                        "openingDate": "2026-04-03T00:00:00.000Z",
+                        "extId": "17906",
+                        "name": "We're Nothing at All",
+                        "name_lang": "{\"en\":\"We're Nothing at All\",\"zh_hk\":\"æåä¸æ¯ä»éº¼\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "III",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 128,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-03We'reNothingAtAll.mp4",
+                        "images": [
+                            "programYi_623eb978-f303-4f3d-a0e4-d7206c02e58e.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 8
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 193
                 }
             ]
         },
@@ -42137,10 +43256,10 @@
             "performance_stats": {
                 "total_shows": 8,
                 "total_seats": 692,
-                "tickets_sold": 65,
-                "unsold_seats": 627,
-                "occupancy_rate": "9.4%",
-                "total_revenue_hkd": 11050
+                "tickets_sold": 69,
+                "unsold_seats": 623,
+                "occupancy_rate": "10.0%",
+                "total_revenue_hkd": 11730
             },
             "shows": [
                 {
@@ -42437,8 +43556,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 26,
-                    "avaliable": 95
+                    "sold": 28,
+                    "avaliable": 93
                 },
                 {
                     "id": 83577,
@@ -42555,8 +43674,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 17,
-                    "avaliable": 35
+                    "sold": 19,
+                    "avaliable": 33
                 },
                 {
                     "id": 83845,
@@ -43182,12 +44301,12 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programDn_c327dc90-447c-45be-931a-c754a4b3123a.jpg"
             },
             "performance_stats": {
-                "total_shows": 37,
-                "total_seats": 5261,
-                "tickets_sold": 93,
-                "unsold_seats": 5168,
-                "occupancy_rate": "1.8%",
-                "total_revenue_hkd": 9050
+                "total_shows": 42,
+                "total_seats": 5823,
+                "tickets_sold": 95,
+                "unsold_seats": 5728,
+                "occupancy_rate": "1.6%",
+                "total_revenue_hkd": 9170
             },
             "shows": [
                 {
@@ -44975,6 +46094,68 @@
                     "avaliable": 116
                 },
                 {
+                    "id": 84243,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T01:10:00.000Z",
+                    "price": 60,
+                    "fbPrice": 0,
+                    "tags": [
+                        "é ­å ´",
+                        "æ©å ´"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 82,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 26,
+                        "name": "House 1",
+                        "name_lang": "{\"en\":\"House 1\",\"zh_hk\":\"1é¢\"}",
+                        "shortName": "1",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 705,
+                        "openingDate": "2026-04-01T00:00:00.000Z",
+                        "extId": "17982",
+                        "name": "The Super Mario Galaxy Movie(Cantonese Version) ",
+                        "name_lang": "{\"en\":\"The Super Mario Galaxy Movie(Cantonese Version) \",\"zh_hk\":\"è¶ç´çªå©æ­éæ²³å¤§é»å½±(ç²µèªç)\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "I",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 98,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-01TheSuperMarioGalaxyMovie_TrailerJ_Cant.mp4",
+                        "images": [
+                            "programDn_c327dc90-447c-45be-931a-c754a4b3123a.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": "$5:props:children:props:movies:56:attr2",
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 2,
+                    "avaliable": 80
+                },
+                {
                     "id": 84237,
                     "published": true,
                     "hold": false,
@@ -45034,6 +46215,67 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 180
+                },
+                {
+                    "id": 84251,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T03:55:00.000Z",
+                    "price": 60,
+                    "fbPrice": 0,
+                    "tags": [
+                        "æ©å ´"
+                    ],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 129,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 27,
+                        "name": "House 2",
+                        "name_lang": "{\"en\":\"House 2\",\"zh_hk\":\"2é¢\"}",
+                        "shortName": "2",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 705,
+                        "openingDate": "2026-04-01T00:00:00.000Z",
+                        "extId": "17982",
+                        "name": "The Super Mario Galaxy Movie(Cantonese Version) ",
+                        "name_lang": "{\"en\":\"The Super Mario Galaxy Movie(Cantonese Version) \",\"zh_hk\":\"è¶ç´çªå©æ­éæ²³å¤§é»å½±(ç²µèªç)\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "I",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 98,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-01TheSuperMarioGalaxyMovie_TrailerJ_Cant.mp4",
+                        "images": [
+                            "programDn_c327dc90-447c-45be-931a-c754a4b3123a.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": "$5:props:children:props:movies:56:attr2",
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 129
                 },
                 {
                     "id": 84238,
@@ -45097,6 +46339,65 @@
                     "avaliable": 180
                 },
                 {
+                    "id": 84252,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T05:45:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 129,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 27,
+                        "name": "House 2",
+                        "name_lang": "{\"en\":\"House 2\",\"zh_hk\":\"2é¢\"}",
+                        "shortName": "2",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 705,
+                        "openingDate": "2026-04-01T00:00:00.000Z",
+                        "extId": "17982",
+                        "name": "The Super Mario Galaxy Movie(Cantonese Version) ",
+                        "name_lang": "{\"en\":\"The Super Mario Galaxy Movie(Cantonese Version) \",\"zh_hk\":\"è¶ç´çªå©æ­éæ²³å¤§é»å½±(ç²µèªç)\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "I",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 98,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-01TheSuperMarioGalaxyMovie_TrailerJ_Cant.mp4",
+                        "images": [
+                            "programDn_c327dc90-447c-45be-931a-c754a4b3123a.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": "$5:props:children:props:movies:56:attr2",
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 129
+                },
+                {
                     "id": 84239,
                     "published": true,
                     "hold": false,
@@ -45154,6 +46455,65 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 180
+                },
+                {
+                    "id": 84253,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T07:35:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 129,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 27,
+                        "name": "House 2",
+                        "name_lang": "{\"en\":\"House 2\",\"zh_hk\":\"2é¢\"}",
+                        "shortName": "2",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 705,
+                        "openingDate": "2026-04-01T00:00:00.000Z",
+                        "extId": "17982",
+                        "name": "The Super Mario Galaxy Movie(Cantonese Version) ",
+                        "name_lang": "{\"en\":\"The Super Mario Galaxy Movie(Cantonese Version) \",\"zh_hk\":\"è¶ç´çªå©æ­éæ²³å¤§é»å½±(ç²µèªç)\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "I",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 98,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-01TheSuperMarioGalaxyMovie_TrailerJ_Cant.mp4",
+                        "images": [
+                            "programDn_c327dc90-447c-45be-931a-c754a4b3123a.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": "$5:props:children:props:movies:56:attr2",
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 129
                 },
                 {
                     "id": 84226,
@@ -45272,6 +46632,65 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 180
+                },
+                {
+                    "id": 84262,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T09:20:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 93,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 29,
+                        "name": "House 4",
+                        "name_lang": "{\"en\":\"House 4\",\"zh_hk\":\"4é¢\"}",
+                        "shortName": "4",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 705,
+                        "openingDate": "2026-04-01T00:00:00.000Z",
+                        "extId": "17982",
+                        "name": "The Super Mario Galaxy Movie(Cantonese Version) ",
+                        "name_lang": "{\"en\":\"The Super Mario Galaxy Movie(Cantonese Version) \",\"zh_hk\":\"è¶ç´çªå©æ­éæ²³å¤§é»å½±(ç²µèªç)\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "I",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 98,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-01TheSuperMarioGalaxyMovie_TrailerJ_Cant.mp4",
+                        "images": [
+                            "programDn_c327dc90-447c-45be-931a-c754a4b3123a.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": "$5:props:children:props:movies:56:attr2",
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 93
                 },
                 {
                     "id": 84241,
@@ -47178,7 +48597,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:624:note",
+                    "note": "$5:props:children:props:shows:635:note",
                     "sold": 102,
                     "avaliable": 159
                 }
@@ -47612,11 +49031,11 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programVf_76f81afa-438b-44f5-87ae-890d28875e7a.jpg"
             },
             "performance_stats": {
-                "total_shows": 21,
-                "total_seats": 2391,
+                "total_shows": 22,
+                "total_seats": 2473,
                 "tickets_sold": 157,
-                "unsold_seats": 2234,
-                "occupancy_rate": "6.6%",
+                "unsold_seats": 2316,
+                "occupancy_rate": "6.3%",
                 "total_revenue_hkd": 22560
             },
             "shows": [
@@ -48867,6 +50286,65 @@
                     "note": null,
                     "sold": 2,
                     "avaliable": 113
+                },
+                {
+                    "id": 84249,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T13:45:00.000Z",
+                    "price": 115,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 82,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 26,
+                        "name": "House 1",
+                        "name_lang": "{\"en\":\"House 1\",\"zh_hk\":\"1é¢\"}",
+                        "shortName": "1",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 307,
+                        "openingDate": "2026-03-19T00:00:00.000Z",
+                        "extId": "17803",
+                        "name": "Project Hail Mary",
+                        "name_lang": "{\"en\":\"Project Hail Mary\",\"zh_hk\":\"æ«æ¥èæ¯è\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "IIA",
+                        "category2": null,
+                        "dialect": "English",
+                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
+                        "subtitle": "Chinese",
+                        "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
+                        "duration": 157,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-03-19ProjectHailMaryTrailerN.mp4",
+                        "images": [
+                            "programVf_76f81afa-438b-44f5-87ae-890d28875e7a.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 82
                 }
             ]
         },
@@ -50909,10 +52387,10 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programGm_2a1fe162-7f80-4eb1-bd1d-61111fb63921.jpg"
             },
             "performance_stats": {
-                "total_shows": 11,
-                "total_seats": 1233,
+                "total_shows": 12,
+                "total_seats": 1315,
                 "tickets_sold": 10,
-                "unsold_seats": 1223,
+                "unsold_seats": 1305,
                 "occupancy_rate": "0.8%",
                 "total_revenue_hkd": 675
             },
@@ -51521,6 +52999,65 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 87
+                },
+                {
+                    "id": 84246,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T07:00:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 82,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 26,
+                        "name": "House 1",
+                        "name_lang": "{\"en\":\"House 1\",\"zh_hk\":\"1é¢\"}",
+                        "shortName": "1",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 656,
+                        "openingDate": "2026-03-19T00:00:00.000Z",
+                        "extId": "17972",
+                        "name": "CIAO UFO",
+                        "name_lang": "{\"en\":\"CIAO UFO\",\"zh_hk\":\"åè¦UFO\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "IIA",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 122,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-03-19CiaoUFO.mp4",
+                        "images": [
+                            "programGm_2a1fe162-7f80-4eb1-bd1d-61111fb63921.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 82
                 },
                 {
                     "id": 84229,
@@ -53941,10 +55478,10 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programpl_0f736da1-2d72-435a-af16-49e1869fba27.jpg"
             },
             "performance_stats": {
-                "total_shows": 2,
-                "total_seats": 229,
+                "total_shows": 3,
+                "total_seats": 311,
                 "tickets_sold": 0,
-                "unsold_seats": 229,
+                "unsold_seats": 311,
                 "occupancy_rate": "0.0%",
                 "total_revenue_hkd": 0
             },
@@ -54068,6 +55605,65 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 116
+                },
+                {
+                    "id": 84245,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T05:00:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 82,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 26,
+                        "name": "House 1",
+                        "name_lang": "{\"en\":\"House 1\",\"zh_hk\":\"1é¢\"}",
+                        "shortName": "1",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 587,
+                        "openingDate": "2026-03-12T00:00:00.000Z",
+                        "extId": "17950",
+                        "name": "Hoppers(Cantonese Version)",
+                        "name_lang": "{\"en\":\"Hoppers(Cantonese Version)\",\"zh_hk\":\"ç¸æ³å¥åµ(ç²µèªç)\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "I",
+                        "category2": null,
+                        "dialect": "Cantonese",
+                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
+                        "subtitle": "No subtitle",
+                        "subtitle_lang": "{\"en\":\"No subtitle\",\"zh_hk\":\"ä¸è¨­å­å¹\"}",
+                        "duration": 105,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-03-05Hoppers_TrailerC_Cant.mp4",
+                        "images": [
+                            "programpl_0f736da1-2d72-435a-af16-49e1869fba27.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": "$5:props:children:props:movies:56:attr2",
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 82
                 }
             ]
         },
@@ -55305,11 +56901,11 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programEk_bfabfd72-8c0f-4735-8874-c0e1652b6bdd.jpg"
             },
             "performance_stats": {
-                "total_shows": 4,
-                "total_seats": 425,
+                "total_shows": 5,
+                "total_seats": 518,
                 "tickets_sold": 11,
-                "unsold_seats": 414,
-                "occupancy_rate": "2.6%",
+                "unsold_seats": 507,
+                "occupancy_rate": "2.1%",
                 "total_revenue_hkd": 940
             },
             "shows": [
@@ -55554,6 +57150,65 @@
                     "note": null,
                     "sold": 0,
                     "avaliable": 113
+                },
+                {
+                    "id": 84263,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": null,
+                    "date": "2026-04-19T00:00:00.000Z",
+                    "time": "2026-04-19T11:10:00.000Z",
+                    "price": 95,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": false,
+                    "manualTags": null,
+                    "seats": 93,
+                    "seatsHold": 4,
+                    "house": {
+                        "id": 29,
+                        "name": "House 4",
+                        "name_lang": "{\"en\":\"House 4\",\"zh_hk\":\"4é¢\"}",
+                        "shortName": "4",
+                        "nameConfig": "{\"attrs\":[]}"
+                    },
+                    "site": {
+                        "id": 11,
+                        "name": "KWAI FONG",
+                        "name_lang": "{\"en\":\"KWAI FONG\",\"zh_hk\":\"èµè³\"}"
+                    },
+                    "movie": {
+                        "id": 550,
+                        "openingDate": "2026-03-05T00:00:00.000Z",
+                        "extId": "17938",
+                        "name": "Sunshine Womenâs Choir",
+                        "name_lang": "{\"en\":\"Sunshine Womenâs Choir\",\"zh_hk\":\"é½åå¥³å­åå±å\"}",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "IIA",
+                        "category2": null,
+                        "dialect": "Mandarin",
+                        "dialect_lang": "{\"en\":\"Mandarin\",\"zh_hk\":\"æ®éè©±\"}",
+                        "subtitle": "Chinese,English",
+                        "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
+                        "duration": 134,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-03-05SunshineWomensChoir_Online.mp4",
+                        "images": [
+                            "programEk_bfabfd72-8c0f-4735-8874-c0e1652b6bdd.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": null,
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": null,
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 93
                 }
             ]
         },
