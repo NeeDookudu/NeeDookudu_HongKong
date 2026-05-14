@@ -1,5 +1,5 @@
 {
-    "scraped_at": "2026-05-14T21:07:34.528453",
+    "scraped_at": "2026-05-14T22:35:55.695765",
     "total_movies": 108,
     "movies": [
         {
@@ -233,10 +233,10 @@
             "performance_stats": {
                 "total_shows": 406,
                 "total_seats": 63385,
-                "tickets_sold": 1014,
-                "unsold_seats": 62371,
+                "tickets_sold": 1020,
+                "unsold_seats": 62365,
                 "occupancy_rate": "1.6%",
-                "total_revenue_hkd": 95795
+                "total_revenue_hkd": 96325
             },
             "shows": [
                 {
@@ -4376,8 +4376,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 9,
-                    "avaliable": 99
+                    "sold": 11,
+                    "avaliable": 97
                 },
                 {
                     "id": 96883,
@@ -5111,8 +5111,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 2,
-                    "avaliable": 258
+                    "sold": 4,
+                    "avaliable": 256
                 },
                 {
                     "id": 96765,
@@ -7144,8 +7144,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 192
+                    "sold": 2,
+                    "avaliable": 190
                 },
                 {
                     "id": 97240,
@@ -25693,10 +25693,10 @@
             "performance_stats": {
                 "total_shows": 6,
                 "total_seats": 730,
-                "tickets_sold": 505,
-                "unsold_seats": 225,
-                "occupancy_rate": "69.2%",
-                "total_revenue_hkd": 51005
+                "tickets_sold": 506,
+                "unsold_seats": 224,
+                "occupancy_rate": "69.3%",
+                "total_revenue_hkd": 51100
             },
             "shows": [
                 {
@@ -25941,8 +25941,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 63,
-                    "avaliable": 56
+                    "sold": 64,
+                    "avaliable": 55
                 },
                 {
                     "id": 94059,
@@ -30032,14 +30032,66 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programyp_61f06187-24ba-4756-9462-f0b98167dbbe.jpg"
             },
             "performance_stats": {
-                "total_shows": 0,
-                "total_seats": 0,
+                "total_shows": 1,
+                "total_seats": 119,
                 "tickets_sold": 0,
-                "unsold_seats": 0,
+                "unsold_seats": 119,
                 "occupancy_rate": "0.0%",
                 "total_revenue_hkd": 0
             },
-            "shows": []
+            "shows": [
+                {
+                    "id": 97123,
+                    "published": true,
+                    "hold": false,
+                    "publishTime": "2026-05-14T22:00:00.000Z",
+                    "date": "2026-05-23T00:00:00.000Z",
+                    "time": "2026-05-23T05:10:00.000Z",
+                    "price": 110,
+                    "fbPrice": 0,
+                    "tags": [],
+                    "useManualTags": true,
+                    "manualTags": [],
+                    "seats": 119,
+                    "seatsHold": 25,
+                    "house": {
+                        "id": 22
+                    },
+                    "site": {
+                        "id": 2
+                    },
+                    "movie": {
+                        "id": 857,
+                        "openingDate": "2026-05-23T00:00:00.000Z",
+                        "extId": "",
+                        "seq": 0,
+                        "subseq": 0,
+                        "category": "IIA",
+                        "category2": null,
+                        "dialect": "Japanese",
+                        "dialect_lang": "{\"en\":\"Japanese\",\"zh_hk\":\"æ¥èª\"}",
+                        "duration": 105,
+                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-05-21TearsOfTheAzureSea.mp4",
+                        "images": [
+                            "programyp_61f06187-24ba-4756-9462-f0b98167dbbe.jpg"
+                        ],
+                        "landscapeImages": [],
+                        "tags": [],
+                        "attr1": "$5:props:children:props:movies:18:attr1",
+                        "attr2": null,
+                        "attr3": null,
+                        "attr4": null,
+                        "attr5": null,
+                        "note": {
+                            "id": 21
+                        },
+                        "parent": null
+                    },
+                    "note": null,
+                    "sold": 0,
+                    "avaliable": 119
+                }
+            ]
         },
         {
             "movie_id": 782,
@@ -31411,10 +31463,10 @@
             "performance_stats": {
                 "total_shows": 55,
                 "total_seats": 18800,
-                "tickets_sold": 14,
-                "unsold_seats": 18786,
+                "tickets_sold": 16,
+                "unsold_seats": 18784,
                 "occupancy_rate": "0.1%",
-                "total_revenue_hkd": 2090
+                "total_revenue_hkd": 2410
             },
             "shows": [
                 {
@@ -31761,8 +31813,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 413
+                    "sold": 2,
+                    "avaliable": 411
                 },
                 {
                     "id": 97837,
@@ -35202,10 +35254,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 246,
-                "tickets_sold": 95,
-                "unsold_seats": 151,
-                "occupancy_rate": "38.6%",
-                "total_revenue_hkd": 9025
+                "tickets_sold": 96,
+                "unsold_seats": 150,
+                "occupancy_rate": "39.0%",
+                "total_revenue_hkd": 9120
             },
             "shows": [
                 {
@@ -35254,8 +35306,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 59,
-                    "avaliable": 60
+                    "sold": 60,
+                    "avaliable": 59
                 },
                 {
                     "id": 88377,
@@ -36124,10 +36176,10 @@
             "performance_stats": {
                 "total_shows": 126,
                 "total_seats": 18085,
-                "tickets_sold": 232,
-                "unsold_seats": 17853,
+                "tickets_sold": 234,
+                "unsold_seats": 17851,
                 "occupancy_rate": "1.3%",
-                "total_revenue_hkd": 22410
+                "total_revenue_hkd": 22670
             },
             "shows": [
                 {
@@ -39667,8 +39719,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 2,
-                    "avaliable": 92
+                    "sold": 4,
+                    "avaliable": 90
                 },
                 {
                     "id": 98041,
@@ -51765,10 +51817,10 @@
             "performance_stats": {
                 "total_shows": 71,
                 "total_seats": 8549,
-                "tickets_sold": 266,
-                "unsold_seats": 8283,
+                "tickets_sold": 268,
+                "unsold_seats": 8281,
                 "occupancy_rate": "3.1%",
-                "total_revenue_hkd": 22370
+                "total_revenue_hkd": 22530
             },
             "shows": [
                 {
@@ -54315,8 +54367,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 116
+                    "sold": 1,
+                    "avaliable": 115
                 },
                 {
                     "id": 97334,
@@ -54816,8 +54868,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 2,
-                    "avaliable": 115
+                    "sold": 3,
+                    "avaliable": 114
                 },
                 {
                     "id": 98146,
@@ -62923,10 +62975,10 @@
             "performance_stats": {
                 "total_shows": 203,
                 "total_seats": 30666,
-                "tickets_sold": 1423,
-                "unsold_seats": 29243,
-                "occupancy_rate": "4.6%",
-                "total_revenue_hkd": 160900
+                "tickets_sold": 1426,
+                "unsold_seats": 29240,
+                "occupancy_rate": "4.7%",
+                "total_revenue_hkd": 161290
             },
             "shows": [
                 {
@@ -68436,8 +68488,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 13,
-                    "avaliable": 133
+                    "sold": 16,
+                    "avaliable": 130
                 },
                 {
                     "id": 98047,
@@ -75261,10 +75313,10 @@
             "performance_stats": {
                 "total_shows": 67,
                 "total_seats": 6915,
-                "tickets_sold": 227,
-                "unsold_seats": 6688,
+                "tickets_sold": 229,
+                "unsold_seats": 6686,
                 "occupancy_rate": "3.3%",
-                "total_revenue_hkd": 23195
+                "total_revenue_hkd": 23395
             },
             "shows": [
                 {
@@ -76164,8 +76216,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 15,
-                    "avaliable": 83
+                    "sold": 17,
+                    "avaliable": 81
                 },
                 {
                     "id": 97031,
@@ -85720,10 +85772,10 @@
             "performance_stats": {
                 "total_shows": 12,
                 "total_seats": 671,
-                "tickets_sold": 8,
-                "unsold_seats": 663,
-                "occupancy_rate": "1.2%",
-                "total_revenue_hkd": 780
+                "tickets_sold": 10,
+                "unsold_seats": 661,
+                "occupancy_rate": "1.5%",
+                "total_revenue_hkd": 1040
             },
             "shows": [
                 {
@@ -85872,8 +85924,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 74
+                    "sold": 2,
+                    "avaliable": 72
                 },
                 {
                     "id": 97390,
