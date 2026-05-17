@@ -1,6 +1,6 @@
 {
-    "scraped_at": "2026-05-17T15:36:20.953201",
-    "total_movies": 122,
+    "scraped_at": "2026-05-17T16:54:52.289058",
+    "total_movies": 116,
     "movies": [
         {
             "movie_id": 801,
@@ -333,63 +333,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programxo_8aa13ec4-9b11-4162-aca3-2928bbd1b063.jpg"
             },
             "performance_stats": {
-                "total_shows": 382,
-                "total_seats": 60423,
-                "tickets_sold": 352,
-                "unsold_seats": 60071,
+                "total_shows": 381,
+                "total_seats": 60163,
+                "tickets_sold": 356,
+                "unsold_seats": 59807,
                 "occupancy_rate": "0.6%",
-                "total_revenue_hkd": 24800
+                "total_revenue_hkd": 25235
             },
             "shows": [
-                {
-                    "id": 97779,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T16:05:00.000Z",
-                    "price": 105,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 260,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 101
-                    },
-                    "site": {
-                        "id": 9
-                    },
-                    "movie": {
-                        "id": 751,
-                        "openingDate": "2026-05-01T00:00:00.000Z",
-                        "extId": "17995",
-                        "seq": -24,
-                        "subseq": 0,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "Cantonese",
-                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
-                        "duration": 117,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-05-01ColdWar1994_Trailer02_Online.mp4",
-                        "images": [
-                            "programxo_8aa13ec4-9b11-4162-aca3-2928bbd1b063.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 1,
-                    "avaliable": 259
-                },
                 {
                     "id": 98201,
                     "published": true,
@@ -2814,8 +2765,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 130
+                    "sold": 1,
+                    "avaliable": 129
                 },
                 {
                     "id": 98414,
@@ -12936,8 +12887,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 260
+                    "sold": 2,
+                    "avaliable": 258
                 },
                 {
                     "id": 98999,
@@ -19138,8 +19089,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 191
+                    "sold": 2,
+                    "avaliable": 189
                 },
                 {
                     "id": 99083,
@@ -19379,63 +19330,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programBp_37d06eb5-fc1f-4cce-9984-c5d92358b0cb.jpg"
             },
             "performance_stats": {
-                "total_shows": 22,
-                "total_seats": 4444,
-                "tickets_sold": 20,
-                "unsold_seats": 4424,
-                "occupancy_rate": "0.5%",
-                "total_revenue_hkd": 1990
+                "total_shows": 21,
+                "total_seats": 4242,
+                "tickets_sold": 9,
+                "unsold_seats": 4233,
+                "occupancy_rate": "0.2%",
+                "total_revenue_hkd": 670
             },
             "shows": [
-                {
-                    "id": 98011,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T15:40:00.000Z",
-                    "price": 120,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 202,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 116
-                    },
-                    "site": {
-                        "id": 3
-                    },
-                    "movie": {
-                        "id": 807,
-                        "openingDate": "2026-05-01T00:00:00.000Z",
-                        "extId": "",
-                        "seq": -22,
-                        "subseq": 0,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "Cantonese",
-                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
-                        "duration": 117,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-05-01ColdWar1994_Trailer02_Online.mp4",
-                        "images": [
-                            "programBp_37d06eb5-fc1f-4cce-9984-c5d92358b0cb.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": "$5:props:children:props:movies:2:attr1",
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 11,
-                    "avaliable": 191
-                },
                 {
                     "id": 98838,
                     "published": true,
@@ -20554,65 +20456,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
             },
             "performance_stats": {
-                "total_shows": 70,
-                "total_seats": 6716,
-                "tickets_sold": 60,
-                "unsold_seats": 6656,
-                "occupancy_rate": "0.9%",
-                "total_revenue_hkd": 5720
+                "total_shows": 69,
+                "total_seats": 6646,
+                "tickets_sold": 51,
+                "unsold_seats": 6595,
+                "occupancy_rate": "0.8%",
+                "total_revenue_hkd": 4865
             },
             "shows": [
-                {
-                    "id": 97798,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T15:40:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [
-                        "III"
-                    ],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 70,
-                    "seatsHold": 0,
-                    "house": {
-                        "id": 98
-                    },
-                    "site": {
-                        "id": 9
-                    },
-                    "movie": {
-                        "id": 767,
-                        "openingDate": "2026-04-16T00:00:00.000Z",
-                        "extId": "17999",
-                        "seq": -20,
-                        "subseq": 0,
-                        "category": "III",
-                        "category2": null,
-                        "dialect": "Cantonese",
-                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
-                        "duration": 163,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16NightKing.mp4",
-                        "images": [
-                            "programNo_3cf72d03-24af-40e7-a6c2-09649f2a6940.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 9,
-                    "avaliable": 61
-                },
                 {
                     "id": 98237,
                     "published": true,
@@ -25359,7 +25210,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1546:note",
+                    "note": "$5:props:children:props:shows:1537:note",
                     "sold": 98,
                     "avaliable": 21
                 }
@@ -25883,10 +25734,10 @@
             "performance_stats": {
                 "total_shows": 1,
                 "total_seats": 147,
-                "tickets_sold": 12,
-                "unsold_seats": 135,
-                "occupancy_rate": "8.2%",
-                "total_revenue_hkd": 3120
+                "tickets_sold": 14,
+                "unsold_seats": 133,
+                "occupancy_rate": "9.5%",
+                "total_revenue_hkd": 3640
             },
             "shows": [
                 {
@@ -25937,8 +25788,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 12,
-                    "avaliable": 135
+                    "sold": 14,
+                    "avaliable": 133
                 }
             ]
         },
@@ -27036,7 +26887,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1546:note",
+                    "note": "$5:props:children:props:shows:1537:note",
                     "sold": 43,
                     "avaliable": 76
                 }
@@ -27313,7 +27164,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1546:note",
+                    "note": "$5:props:children:props:shows:1537:note",
                     "sold": 113,
                     "avaliable": 6
                 }
@@ -27455,7 +27306,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1546:note",
+                    "note": "$5:props:children:props:shows:1537:note",
                     "sold": 37,
                     "avaliable": 82
                 }
@@ -28047,10 +27898,10 @@
             "performance_stats": {
                 "total_shows": 4,
                 "total_seats": 476,
-                "tickets_sold": 33,
-                "unsold_seats": 443,
-                "occupancy_rate": "6.9%",
-                "total_revenue_hkd": 3135
+                "tickets_sold": 34,
+                "unsold_seats": 442,
+                "occupancy_rate": "7.1%",
+                "total_revenue_hkd": 3230
             },
             "shows": [
                 {
@@ -28197,8 +28048,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 9,
-                    "avaliable": 110
+                    "sold": 10,
+                    "avaliable": 109
                 },
                 {
                     "id": 97350,
@@ -28390,7 +28241,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1546:note",
+                    "note": "$5:props:children:props:shows:1537:note",
                     "sold": 22,
                     "avaliable": 97
                 }
@@ -28894,7 +28745,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1546:note",
+                    "note": "$5:props:children:props:shows:1537:note",
                     "sold": 65,
                     "avaliable": 54
                 }
@@ -29160,10 +29011,10 @@
             "performance_stats": {
                 "total_shows": 10,
                 "total_seats": 1214,
-                "tickets_sold": 511,
-                "unsold_seats": 703,
-                "occupancy_rate": "42.1%",
-                "total_revenue_hkd": 51350
+                "tickets_sold": 512,
+                "unsold_seats": 702,
+                "occupancy_rate": "42.2%",
+                "total_revenue_hkd": 51445
             },
             "shows": [
                 {
@@ -29261,8 +29112,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 71,
-                    "avaliable": 48
+                    "sold": 72,
+                    "avaliable": 47
                 },
                 {
                     "id": 90983,
@@ -29970,10 +29821,10 @@
             "performance_stats": {
                 "total_shows": 4,
                 "total_seats": 542,
-                "tickets_sold": 43,
-                "unsold_seats": 499,
-                "occupancy_rate": "7.9%",
-                "total_revenue_hkd": 4430
+                "tickets_sold": 48,
+                "unsold_seats": 494,
+                "occupancy_rate": "8.9%",
+                "total_revenue_hkd": 4930
             },
             "shows": [
                 {
@@ -30081,7 +29932,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1553:note",
+                    "note": "$5:props:children:props:shows:1544:note",
                     "sold": 13,
                     "avaliable": 184
                 },
@@ -30132,7 +29983,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1553:note",
+                    "note": "$5:props:children:props:shows:1544:note",
                     "sold": 7,
                     "avaliable": 111
                 },
@@ -30183,9 +30034,9 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1553:note",
-                    "sold": 11,
-                    "avaliable": 97
+                    "note": "$5:props:children:props:shows:1544:note",
+                    "sold": 16,
+                    "avaliable": 92
                 }
             ]
         },
@@ -31560,7 +31411,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 100,
                     "avaliable": 19
                 }
@@ -32870,10 +32721,10 @@
             "performance_stats": {
                 "total_shows": 13,
                 "total_seats": 1604,
-                "tickets_sold": 624,
-                "unsold_seats": 980,
-                "occupancy_rate": "38.9%",
-                "total_revenue_hkd": 62775
+                "tickets_sold": 625,
+                "unsold_seats": 979,
+                "occupancy_rate": "39.0%",
+                "total_revenue_hkd": 62870
             },
             "shows": [
                 {
@@ -33461,8 +33312,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 8,
-                    "avaliable": 111
+                    "sold": 9,
+                    "avaliable": 110
                 },
                 {
                     "id": 99766,
@@ -39910,87 +39761,6 @@
             ]
         },
         {
-            "movie_id": 828,
-            "details": {
-                "id": 828,
-                "openingDate": "2026-05-21T00:00:00.000Z",
-                "featured": false,
-                "active": true,
-                "extId": "",
-                "name": "Two Prosecutors",
-                "name_lang": "{\"en\":\"Two Prosecutors\",\"zh_hk\":\"æª¢å¯å®çå¯å½\"}",
-                "seq": 0,
-                "subseq": 0,
-                "queued": false,
-                "title": "Two Prosecutors",
-                "title_lang": "{\"en\":\"Two Prosecutors\",\"zh_hk\":\"æª¢å¯å®çå¯å½\"}",
-                "description": "<p>In 1937, at the peak of Stalinâs Great Terror, an idealistic young prosecutor, Kornyev, receives a blood-written plea for help smuggled out of prison. Determined to meet the prisoner, he forces his way into the system, only to realize that the regime destroys not only enemies of the state, but also the most ardent supporters of the Soviet ideal. Adapted from a novel by Soviet physicist and political prisoner Georgy Demidov, this latest film from acclaimed Ukrainian director Sergei Loznitsa is a Kafkaesque tale about seeking justice within a totalitarian bureaucracy. Winner of the FranÃ§ois Chalais Prize at the Cannes Film Festival.</p>",
-                "description_lang": "{\"en\":\"<p>In 1937, at the peak of Stalinâs Great Terror, an idealistic young prosecutor, Kornyev, receives a blood-written plea for help smuggled out of prison. Determined to meet the prisoner, he forces his way into the system, only to realize that the regime destroys not only enemies of the state, but also the most ardent supporters of the Soviet ideal. Adapted from a novel by Soviet physicist and political prisoner Georgy Demidov, this latest film from acclaimed Ukrainian director Sergei Loznitsa is a Kafkaesque tale about seeking justice within a totalitarian bureaucracy. Winner of the FranÃ§ois Chalais Prize at the Cannes Film Festival.</p>\",\"zh_hk\":\"<p>1937å¹´èè¯æ­£å¼å²å¤ªæå¤§æ¸æ´ï¼ç£çæåä¸è¬çç³å¤ä¿¡ä»¶è¢«ææ¸çæ¯ï¼å»æå¤æµåºä¸å°æ¿æ²»ç¯å²æ´å°¼äºåææ±ç¶å±èª¿æ¥å¶æ¡ä»¶çè¡æ¸ãå¹´è¼ç±è¡çæ°ä»»æª¢å¯å®ç§å°¼è¶å¤«æ¶å°ä¿¡ä»¶ï¼éåç£çè¦æ±æ¢è¦ï¼å»å±¢å±¢åé»ãçºæ´å°¼äºåæ¥µåå¹³åçéç¨ä¸­ï¼ä»éæ¼¸æ­¥å¥ä¸å¼µå¯ä¸éé¢¨çå·¨ç¶²ï¼ä¸¦ç¼ç¾æ¿æ¬æ¶æ»çä¸åæ¯åå®¶çæµäººï¼éåæ¬å¶å¿ å¯¦æè­·èãé»å½±æ¹ç·¨èªæ¾è¢«éæ¼åæ¹ç14å¹´çèè¯ç©çå­¸å®¶å¬æ²»å¾·ç±³å¤å¤«æå¯«ååå°èªªï¼çåè­å°æ¼ç¾æ¯å°¼è©ä»¥å¡å¤«å¡å¼ä»¤äººä¸å¯èæçç¯å¥ï¼å¾å¾å±éæª¢å¯å®èæ¿æ¬çå°å³ï¼å¸¶è§ç¾åç¾èè¯æ¿æ¬èæçæ·±æ·µï¼æ¦®ç²åº·åå½±å±æ³è­ç´¢ç¦å¤é·çã</p>\"}",
-                "news": "",
-                "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "nation": null,
-                "category": "IIA",
-                "category2": null,
-                "dialect": "Russian",
-                "dialect_lang": "{\"en\":\"Russian\",\"zh_hk\":\"ä¿èª\"}",
-                "dialectOther": "",
-                "dialectOther_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "subtitle": "Chinese,English",
-                "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
-                "director": "Sergei Loznitsa",
-                "director_lang": "{\"en\":\"Sergei Loznitsa\",\"zh_hk\":\"æ²åºç¾æ¯å°¼è©\"}",
-                "cast": "Aleksandr Kuznetsov, Alexander Filippenko, Anatoli Beliy",
-                "cast_lang": "{\"en\":\"Aleksandr Kuznetsov, Alexander Filippenko, Anatoli Beliy\",\"zh_hk\":\"äºæ­·å±±å¤§åº«è²æ¶ä½å¤«ãäºæ­·å±±å¤§è²å©æ½ç§ãå®ç´æå°¼è²å©\"}",
-                "type": null,
-                "duration": 118,
-                "startDate": null,
-                "endDate": null,
-                "date": null,
-                "dateEnd": null,
-                "numSchedules": 0,
-                "website": "",
-                "trailer": "https://trailer.cinema.com.hk/trailer/2026-05-21TwoProsecutors.mp4",
-                "masterId": "4385",
-                "filmId": "F-5796",
-                "hkta": true,
-                "images": [
-                    "programWp_02907e51-18e1-442c-b689-1072d63c77c8.jpg"
-                ],
-                "landscapeImages": [],
-                "config": null,
-                "tags": [],
-                "updateTime": "2026-05-16T09:59:57.682Z",
-                "createTime": "2026-05-05T08:15:41.377Z",
-                "parent": null,
-                "movieTypes": [
-                    {
-                        "id": 3,
-                        "name": "Drama",
-                        "name_lang": "{\"en\":\"Drama\",\"zh_hk\":\"\",\"zh_cn\":\"\"}",
-                        "createTime": "2026-01-18T16:41:01.111Z",
-                        "updateTime": "2026-01-18T16:41:01.156Z"
-                    }
-                ],
-                "attr1": null,
-                "attr2": null,
-                "attr3": null,
-                "attr4": null,
-                "attr5": null,
-                "note": null,
-                "maxTime": "2026-05-17T07:20:00.000Z",
-                "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programWp_02907e51-18e1-442c-b689-1072d63c77c8.jpg"
-            },
-            "performance_stats": {
-                "total_shows": 0,
-                "total_seats": 0,
-                "tickets_sold": 0,
-                "unsold_seats": 0,
-                "occupancy_rate": "0.0%",
-                "total_revenue_hkd": 0
-            },
-            "shows": []
-        },
-        {
             "movie_id": 829,
             "details": {
                 "id": 829,
@@ -40127,7 +39897,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40176,7 +39946,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40225,7 +39995,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40274,7 +40044,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40323,7 +40093,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40375,7 +40145,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40424,7 +40194,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40473,7 +40243,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40522,7 +40292,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40571,7 +40341,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40623,7 +40393,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40672,7 +40442,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40721,7 +40491,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40770,7 +40540,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40819,7 +40589,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40871,7 +40641,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40920,7 +40690,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -40969,7 +40739,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -41018,7 +40788,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -41070,7 +40840,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -41119,7 +40889,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -41168,7 +40938,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -41217,7 +40987,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -41266,7 +41036,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -42044,10 +41814,10 @@
             "performance_stats": {
                 "total_shows": 55,
                 "total_seats": 18800,
-                "tickets_sold": 304,
-                "unsold_seats": 18496,
+                "tickets_sold": 310,
+                "unsold_seats": 18490,
                 "occupancy_rate": "1.6%",
-                "total_revenue_hkd": 45940
+                "total_revenue_hkd": 46900
             },
             "shows": [
                 {
@@ -42345,8 +42115,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 1,
-                    "avaliable": 267
+                    "sold": 3,
+                    "avaliable": 265
                 },
                 {
                     "id": 97809,
@@ -43288,8 +43058,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 2,
-                    "avaliable": 411
+                    "sold": 4,
+                    "avaliable": 409
                 },
                 {
                     "id": 97846,
@@ -43337,8 +43107,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 11,
-                    "avaliable": 257
+                    "sold": 13,
+                    "avaliable": 255
                 },
                 {
                     "id": 97819,
@@ -44913,7 +44683,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -44962,7 +44732,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45011,7 +44781,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45060,7 +44830,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45109,7 +44879,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45158,7 +44928,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45207,7 +44977,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45256,7 +45026,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45305,7 +45075,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45354,7 +45124,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45403,7 +45173,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45452,7 +45222,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -45540,10 +45310,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 238,
-                "tickets_sold": 75,
-                "unsold_seats": 163,
-                "occupancy_rate": "31.5%",
-                "total_revenue_hkd": 7125
+                "tickets_sold": 93,
+                "unsold_seats": 145,
+                "occupancy_rate": "39.1%",
+                "total_revenue_hkd": 8835
             },
             "shows": [
                 {
@@ -45559,7 +45329,7 @@
                     "useManualTags": true,
                     "manualTags": [],
                     "seats": 119,
-                    "seatsHold": 26,
+                    "seatsHold": 14,
                     "house": {
                         "id": 93
                     },
@@ -45592,8 +45362,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 41,
-                    "avaliable": 78
+                    "sold": 59,
+                    "avaliable": 60
                 },
                 {
                     "id": 86218,
@@ -45900,10 +45670,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 238,
-                "tickets_sold": 147,
-                "unsold_seats": 91,
-                "occupancy_rate": "61.8%",
-                "total_revenue_hkd": 13965
+                "tickets_sold": 148,
+                "unsold_seats": 90,
+                "occupancy_rate": "62.2%",
+                "total_revenue_hkd": 14060
             },
             "shows": [
                 {
@@ -45952,8 +45722,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 84,
-                    "avaliable": 35
+                    "sold": 85,
+                    "avaliable": 34
                 },
                 {
                     "id": 86220,
@@ -46080,10 +45850,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 290,
-                "tickets_sold": 148,
-                "unsold_seats": 142,
-                "occupancy_rate": "51.0%",
-                "total_revenue_hkd": 15425
+                "tickets_sold": 149,
+                "unsold_seats": 141,
+                "occupancy_rate": "51.4%",
+                "total_revenue_hkd": 15520
             },
             "shows": [
                 {
@@ -46181,8 +45951,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 57,
-                    "avaliable": 87
+                    "sold": 58,
+                    "avaliable": 86
                 }
             ]
         },
@@ -46529,96 +46299,6 @@
                     "avaliable": 91
                 }
             ]
-        },
-        {
-            "movie_id": 848,
-            "details": {
-                "id": 848,
-                "openingDate": "2026-05-17T00:00:00.000Z",
-                "featured": false,
-                "active": true,
-                "extId": "",
-                "name": "SIRAT Special Screening w/ Corrupt the Youth",
-                "name_lang": "{\"en\":\"SIRAT Special Screening w/ Corrupt the Youth\",\"zh_hk\":\"ãæ«ä¸çæ²ãé³æ³¢éæ¼ç¹å¸å ´w/å¥½éå¹´è¼æ¯å®¤\"}",
-                "seq": 0,
-                "subseq": 0,
-                "queued": false,
-                "title": "SIRAT Special Screening w/ Corrupt the Youth",
-                "title_lang": "{\"en\":\"SIRAT Special Screening w/ Corrupt the Youth\",\"zh_hk\":\"ãæ«ä¸çæ²ãé³æ³¢éæ¼ç¹å¸å ´w/å¥½éå¹´è¼æ¯å®¤\"}",
-                "description": "<p>A father and his son arrive at a rave deep in the mountains of southern Morocco. Theyâre searching for Mar â daughter and sister â who vanished months ago at one of these endless, sleepless parties. Surrounded by electronic music and a raw, unfamiliar sense of freedom, they hand out her photo again and again. Hope is fading but they push through and follow a group of ravers heading to one last party in the desert. As they venture deeper into the burning wilderness, the journey forces them to confront their own limits. Nominated for the Oscar for Best International Feature Film and Best Sound. Winner of the Jury Prize, the Soundtrack Award, and the Palm Dog Award at Cannes Film Festival.</p><p>&nbsp;</p><p>Post-screening discussion in Cantonese by Corrupt the Youth. Each ticket includes one set of premium items, including a special ticket, coin case, and tattoo sticker. &nbsp;</p>",
-                "description_lang": "$3d",
-                "news": "",
-                "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "nation": null,
-                "category": "IIB",
-                "category2": null,
-                "dialect": "English,Spanish,French,Arabic",
-                "dialect_lang": "{\"en\":\"English,Spanish,French,Arabic\",\"zh_hk\":\"è±æ,è¥¿ç­çèª,æ³èª,é¿æä¼¯èª\"}",
-                "dialectOther": "",
-                "dialectOther_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "subtitle": "Chinese,English",
-                "subtitle_lang": "{\"en\":\"Chinese,English\",\"zh_hk\":\"ä¸­æ,è±æ\"}",
-                "director": "Ãliver Laxe",
-                "director_lang": "{\"en\":\"Ãliver Laxe\",\"zh_hk\":\"å¥§å©è¯æ­·æ¯\"}",
-                "cast": "Sergi LÃ³pez, Bruno NÃºÃ±ez Arjona, Richard Bellamy, Stefania Gadda, Joshua Liam Henderson, Tonin Janvier, Jade Oukid",
-                "cast_lang": "{\"en\":\"Sergi LÃ³pez, Bruno NÃºÃ±ez Arjona, Richard Bellamy, Stefania Gadda, Joshua Liam Henderson, Tonin Janvier, Jade Oukid\",\"zh_hk\":\"æ²æ²»è·¯ææ¯ãå¸é­¯åªç´è²äºåº·æ¿ãçæ¥è²æ¿ç±³ãå²èè¬å¦®å©­åéãç´èé¿éå®äº¨éè£ãæ¹¯å¯§æ©ç¶­äºãåèå¥§æ½\"}",
-                "type": null,
-                "duration": 114,
-                "startDate": null,
-                "endDate": null,
-                "date": null,
-                "dateEnd": null,
-                "numSchedules": 0,
-                "website": "",
-                "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-09Sirat_LobbyTV.mp4",
-                "masterId": "4369",
-                "filmId": "",
-                "hkta": true,
-                "images": [
-                    "programIo_a4e8ce59-bc9a-4a84-b00d-f78532b202c1.jpg"
-                ],
-                "landscapeImages": [],
-                "config": null,
-                "tags": [],
-                "updateTime": "2026-05-09T03:58:51.437Z",
-                "createTime": "2026-05-09T03:08:47.508Z",
-                "parent": null,
-                "movieTypes": [
-                    {
-                        "id": 3,
-                        "name": "Drama",
-                        "name_lang": "{\"en\":\"Drama\",\"zh_hk\":\"\",\"zh_cn\":\"\"}",
-                        "createTime": "2026-01-18T16:41:01.111Z",
-                        "updateTime": "2026-01-18T16:41:01.156Z"
-                    },
-                    {
-                        "id": 15,
-                        "name": "Music",
-                        "name_lang": "{\"en\":\"Music\",\"zh_hk\":\"\",\"zh_cn\":\"\"}",
-                        "createTime": "2026-01-18T16:41:01.111Z",
-                        "updateTime": "2026-01-18T16:41:01.156Z"
-                    }
-                ],
-                "attr1": "$5:props:children:props:movies:12:attr1",
-                "attr2": null,
-                "attr3": null,
-                "attr4": null,
-                "attr5": null,
-                "note": {
-                    "id": 9
-                },
-                "maxTime": "2026-05-17T08:45:00.000Z",
-                "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programIo_a4e8ce59-bc9a-4a84-b00d-f78532b202c1.jpg"
-            },
-            "performance_stats": {
-                "total_shows": 0,
-                "total_seats": 0,
-                "tickets_sold": 0,
-                "unsold_seats": 0,
-                "occupancy_rate": "0.0%",
-                "total_revenue_hkd": 0
-            },
-            "shows": []
         },
         {
             "movie_id": 832,
@@ -47017,8 +46697,8 @@
                 "queued": false,
                 "title": "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS - We Are We Are Fans Cheering Screening",
                 "title_lang": "{\"en\":\"ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS - We Are We Are Fans Cheering Screening\",\"zh_hk\":\"ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS - We Are We Areææ´å ´\"}",
-                "description": "$3e",
-                "description_lang": "$3f",
+                "description": "$3d",
+                "description_lang": "$3e",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -47212,63 +46892,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programJo_bde95617-228b-4451-ad71-61f8771eb6bf.jpg"
             },
             "performance_stats": {
-                "total_shows": 121,
-                "total_seats": 17852,
+                "total_shows": 120,
+                "total_seats": 17650,
                 "tickets_sold": 85,
-                "unsold_seats": 17767,
+                "unsold_seats": 17565,
                 "occupancy_rate": "0.5%",
                 "total_revenue_hkd": 7230
             },
             "shows": [
-                {
-                    "id": 97990,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T16:15:00.000Z",
-                    "price": 110,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 202,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 24
-                    },
-                    "site": {
-                        "id": 3
-                    },
-                    "movie": {
-                        "id": 763,
-                        "openingDate": "2026-05-14T00:00:00.000Z",
-                        "extId": "17997",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "duration": 109,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-05-07TheSheepDetectives_Trailer2_Online.mp4",
-                        "images": [
-                            "programJo_bde95617-228b-4451-ad71-61f8771eb6bf.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 0,
-                    "avaliable": 202
-                },
                 {
                     "id": 99168,
                     "published": true,
@@ -53326,65 +52957,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programSo_016f2b88-0d90-403d-8b22-f992313ef151.jpg"
             },
             "performance_stats": {
-                "total_shows": 114,
-                "total_seats": 20237,
+                "total_shows": 113,
+                "total_seats": 19977,
                 "tickets_sold": 44,
-                "unsold_seats": 20193,
+                "unsold_seats": 19933,
                 "occupancy_rate": "0.2%",
-                "total_revenue_hkd": 3570
+                "total_revenue_hkd": 3585
             },
             "shows": [
-                {
-                    "id": 97785,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T16:20:00.000Z",
-                    "price": 105,
-                    "fbPrice": 0,
-                    "tags": [
-                        "III"
-                    ],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 260,
-                    "seatsHold": 17,
-                    "house": {
-                        "id": 100
-                    },
-                    "site": {
-                        "id": 9
-                    },
-                    "movie": {
-                        "id": 772,
-                        "openingDate": "2026-05-14T00:00:00.000Z",
-                        "extId": "18005",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "III",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "duration": 116,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-05-07MortalKombat 2_F5_Online.mp4",
-                        "images": [
-                            "programSo_016f2b88-0d90-403d-8b22-f992313ef151.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 3,
-                    "avaliable": 257
-                },
                 {
                     "id": 98213,
                     "published": true,
@@ -53856,8 +53436,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 202
+                    "sold": 3,
+                    "avaliable": 199
                 },
                 {
                     "id": 98790,
@@ -59212,7 +58792,7 @@
                 "title": "Until we meet again",
                 "title_lang": "{\"en\":\"Until we meet again\",\"zh_hk\":\"å¥é¢ç¡æ\"}",
                 "description": "<p>Misora Shimizu faced repeated setbacks in her job search until she met funeral director Reiji Urushibara. Under his guidance, Misora began interning at the funeral company \"Bando Kaikan.\" However, Reiji's strict instruction left Misora feeling frustrated every day. At the same time, she was moved by Reiji thoughtfulness and attitude towards the families of the deceased and the deceased themselves. Whenever a coffin was carried out, Reiji would softly say, \"We will soon say goodbye,\" leaving a deep impression on Mizuki and making her aspire to become a funeral director like him.</p><p>&nbsp;</p><p>\"An eternal farewell will eventually come to everyone,\" she pondered. What kind of funeral can satisfy the bereaved while also bringing peace to the deceased? Misora decided to follow in Reiji's footsteps, and he gradually began to trust her. Together, they completed countless funerals, striving to provide the deceased with the \"most perfect farewell.\"</p>",
-                "description_lang": "$40",
+                "description_lang": "$3f",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -59268,63 +58848,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programlp_dda8eb4b-6910-43da-96e5-4a70c714265e.jpg"
             },
             "performance_stats": {
-                "total_shows": 77,
-                "total_seats": 9086,
+                "total_shows": 76,
+                "total_seats": 8889,
                 "tickets_sold": 76,
-                "unsold_seats": 9010,
-                "occupancy_rate": "0.8%",
+                "unsold_seats": 8813,
+                "occupancy_rate": "0.9%",
                 "total_revenue_hkd": 5025
             },
             "shows": [
-                {
-                    "id": 98004,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T16:05:00.000Z",
-                    "price": 110,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 197,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 115
-                    },
-                    "site": {
-                        "id": 3
-                    },
-                    "movie": {
-                        "id": 791,
-                        "openingDate": "2026-05-14T00:00:00.000Z",
-                        "extId": "18011",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "I",
-                        "category2": null,
-                        "dialect": "Japanese",
-                        "dialect_lang": "{\"en\":\"Japanese\",\"zh_hk\":\"æ¥èª\"}",
-                        "duration": 125,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-05-14UntilWeMeetAgain.mp4",
-                        "images": [
-                            "programlp_dda8eb4b-6910-43da-96e5-4a70c714265e.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 0,
-                    "avaliable": 197
-                },
                 {
                     "id": 98394,
                     "published": true,
@@ -67033,7 +66564,7 @@
                         "updateTime": "2026-01-18T16:41:01.156Z"
                     }
                 ],
-                "attr1": "$5:props:children:props:movies:52:attr1",
+                "attr1": "$5:props:children:props:movies:51:attr1",
                 "attr2": null,
                 "attr3": null,
                 "attr4": null,
@@ -67043,65 +66574,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programSo_016f2b88-0d90-403d-8b22-f992313ef151.jpg"
             },
             "performance_stats": {
-                "total_shows": 13,
-                "total_seats": 1366,
+                "total_shows": 12,
+                "total_seats": 1245,
                 "tickets_sold": 3,
-                "unsold_seats": 1363,
+                "unsold_seats": 1242,
                 "occupancy_rate": "0.2%",
                 "total_revenue_hkd": 510
             },
             "shows": [
-                {
-                    "id": 97983,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T15:50:00.000Z",
-                    "price": 170,
-                    "fbPrice": 0,
-                    "tags": [
-                        "III"
-                    ],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 121,
-                    "seatsHold": 6,
-                    "house": {
-                        "id": 20
-                    },
-                    "site": {
-                        "id": 3
-                    },
-                    "movie": {
-                        "id": 825,
-                        "openingDate": "2026-05-14T00:00:00.000Z",
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "III",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "duration": 116,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-05-07MortalKombat 2_F5_Online.mp4",
-                        "images": [
-                            "programSo_016f2b88-0d90-403d-8b22-f992313ef151.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 0,
-                    "avaliable": 121
-                },
                 {
                     "id": 98800,
                     "published": true,
@@ -67142,7 +66622,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67193,7 +66673,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67244,7 +66724,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67295,7 +66775,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67347,7 +66827,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67398,7 +66878,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67449,7 +66929,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67500,7 +66980,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67552,7 +67032,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67603,7 +67083,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67654,7 +67134,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67705,7 +67185,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -67735,7 +67215,7 @@
                 "title": "Silent Friend",
                 "title_lang": "{\"en\":\"Silent Friend\",\"zh_hk\":\"å¯éçæå\"}",
                 "description": "<p>In the heart of a botanical garden in a medieval university town in Germany stands a majestic ginkgo tree. This silent witness has observed over a century the quiet rhythms of transformation across three human lives. 2020, a neuroscientist from Hong Kong, exploring the mind of babies, begins an unexpected experiment with the old tree. 1972, a young student is profoundly changed by the simple act of observing and connecting with a geranium. 1908, the universityâs first female student discovers, through the lens of photography, sacred patterns of the universe hidden within the humblest of plants. We follow their clumsy, awkward attempts to connect â each one of them deeply rooted in their own present â as they are transformed by the quiet, enduring, and mysterious power of nature. The ancient ginkgo tree brings us closer to what it means to be human â to our longing to belong.</p>",
-                "description_lang": "$41",
+                "description_lang": "$40",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -67793,10 +67273,10 @@
             "performance_stats": {
                 "total_shows": 34,
                 "total_seats": 3939,
-                "tickets_sold": 73,
-                "unsold_seats": 3866,
+                "tickets_sold": 75,
+                "unsold_seats": 3864,
                 "occupancy_rate": "1.9%",
-                "total_revenue_hkd": 7290
+                "total_revenue_hkd": 7510
             },
             "shows": [
                 {
@@ -68050,8 +67530,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 7,
-                    "avaliable": 112
+                    "sold": 8,
+                    "avaliable": 111
                 },
                 {
                     "id": 99267,
@@ -69195,8 +68675,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 119
+                    "sold": 1,
+                    "avaliable": 118
                 },
                 {
                     "id": 99633,
@@ -70648,7 +70128,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -70697,7 +70177,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -70746,7 +70226,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -71305,7 +70785,7 @@
                 "title": "Top Gun : Maverick",
                 "title_lang": "{\"en\":\"Top Gun : Maverick\",\"zh_hk\":\"å£¯å¿åé² : ç¨è¡ä¿ \"}",
                 "description": "<p>After more than thirty years of service as one of the Navyâs top aviators, Pete âMaverickâ Mitchell (Tom Cruise) is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. When he finds himself training a detachment of Top Gun graduates for a specialized mission the likes of which no living pilot has ever seen, Maverick encounters Lt. Bradley Bradshaw (Miles Teller), call sign: âRooster,â the son of Maverickâs late friend and Radar Intercept Officer Lt. Nick Bradshaw, aka âGoose.â<br>Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.&nbsp;<br>&nbsp;</p>",
-                "description_lang": "$42",
+                "description_lang": "$41",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -71587,7 +71067,7 @@
                         "updateTime": "2026-01-18T16:41:01.156Z"
                     }
                 ],
-                "attr1": "$5:props:children:props:movies:52:attr1",
+                "attr1": "$5:props:children:props:movies:51:attr1",
                 "attr2": null,
                 "attr3": null,
                 "attr4": null,
@@ -71599,10 +71079,10 @@
             "performance_stats": {
                 "total_shows": 15,
                 "total_seats": 1194,
-                "tickets_sold": 50,
-                "unsold_seats": 1144,
-                "occupancy_rate": "4.2%",
-                "total_revenue_hkd": 8160
+                "tickets_sold": 55,
+                "unsold_seats": 1139,
+                "occupancy_rate": "4.6%",
+                "total_revenue_hkd": 8950
             },
             "shows": [
                 {
@@ -71644,7 +71124,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -71695,7 +71175,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -71744,7 +71224,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -71793,7 +71273,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -71842,7 +71322,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -71893,7 +71373,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -71944,7 +71424,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -71953,8 +71433,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 2,
-                    "avaliable": 119
+                    "sold": 3,
+                    "avaliable": 118
                 },
                 {
                     "id": 98742,
@@ -71993,7 +71473,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72042,7 +71522,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72091,7 +71571,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72142,7 +71622,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72193,7 +71673,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72202,8 +71682,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 121
+                    "sold": 2,
+                    "avaliable": 119
                 },
                 {
                     "id": 98778,
@@ -72242,7 +71722,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72291,7 +71771,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72340,7 +71820,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72349,8 +71829,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 8,
-                    "avaliable": 113
+                    "sold": 10,
+                    "avaliable": 111
                 }
             ]
         },
@@ -72370,7 +71850,7 @@
                 "title": "4DX Top Gun : Maverick",
                 "title_lang": "{\"en\":\"4DX Top Gun : Maverick\",\"zh_hk\":\"4DX å£¯å¿åé² : ç¨è¡ä¿ \"}",
                 "description": "<p>After more than thirty years of service as one of the Navyâs top aviators, Pete âMaverickâ Mitchell (Tom Cruise) is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. When he finds himself training a detachment of Top Gun graduates for a specialized mission the likes of which no living pilot has ever seen, Maverick encounters Lt. Bradley Bradshaw (Miles Teller), call sign: âRooster,â the son of Maverickâs late friend and Radar Intercept Officer Lt. Nick Bradshaw, aka âGoose.â<br>Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.&nbsp;<br>&nbsp;</p>",
-                "description_lang": "$43",
+                "description_lang": "$42",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -72423,7 +71903,7 @@
                         "updateTime": "2026-01-18T16:41:01.156Z"
                     }
                 ],
-                "attr1": "$5:props:children:props:movies:52:attr1",
+                "attr1": "$5:props:children:props:movies:51:attr1",
                 "attr2": null,
                 "attr3": null,
                 "attr4": null,
@@ -72435,10 +71915,10 @@
             "performance_stats": {
                 "total_shows": 12,
                 "total_seats": 1038,
-                "tickets_sold": 46,
-                "unsold_seats": 992,
-                "occupancy_rate": "4.4%",
-                "total_revenue_hkd": 7200
+                "tickets_sold": 49,
+                "unsold_seats": 989,
+                "occupancy_rate": "4.7%",
+                "total_revenue_hkd": 7690
             },
             "shows": [
                 {
@@ -72480,7 +71960,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72529,7 +72009,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72578,7 +72058,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72627,7 +72107,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72678,7 +72158,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72727,7 +72207,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72736,8 +72216,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 121
+                    "sold": 1,
+                    "avaliable": 120
                 },
                 {
                     "id": 98965,
@@ -72776,7 +72256,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72825,7 +72305,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72876,7 +72356,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72925,7 +72405,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -72934,8 +72414,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 1,
-                    "avaliable": 120
+                    "sold": 3,
+                    "avaliable": 118
                 },
                 {
                     "id": 98781,
@@ -72974,7 +72454,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -73023,7 +72503,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:52:attr1",
+                        "attr1": "$5:props:children:props:movies:51:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -73053,7 +72533,7 @@
                 "title": "IMAX Top Gun : Maverick ",
                 "title_lang": "{\"en\":\"IMAX Top Gun : Maverick \",\"zh_hk\":\"IMAX å£¯å¿åé² : ç¨è¡ä¿ \"}",
                 "description": "<p>After more than thirty years of service as one of the Navyâs top aviators, Pete âMaverickâ Mitchell (Tom Cruise) is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. When he finds himself training a detachment of Top Gun graduates for a specialized mission the likes of which no living pilot has ever seen, Maverick encounters Lt. Bradley Bradshaw (Miles Teller), call sign: âRooster,â the son of Maverickâs late friend and Radar Intercept Officer Lt. Nick Bradshaw, aka âGoose.â<br>Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.&nbsp;<br>&nbsp;</p>",
-                "description_lang": "$44",
+                "description_lang": "$43",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -73782,7 +73262,7 @@
                         "updateTime": "2026-01-18T16:41:01.156Z"
                     }
                 ],
-                "attr1": "$5:props:children:props:movies:69:attr1",
+                "attr1": "$5:props:children:props:movies:67:attr1",
                 "attr2": null,
                 "attr3": null,
                 "attr4": null,
@@ -73837,7 +73317,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -73886,7 +73366,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -73935,7 +73415,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -73984,7 +73464,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74033,7 +73513,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74082,7 +73562,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74131,7 +73611,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74180,7 +73660,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74229,7 +73709,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74259,7 +73739,7 @@
                 "title": "Top Gun : Maverick (Atmos)",
                 "title_lang": "{\"en\":\"Top Gun : Maverick (Atmos)\",\"zh_hk\":\"å£¯å¿åé² : ç¨è¡ä¿  (å¨æ¯è²)\"}",
                 "description": "<p>After more than thirty years of service as one of the Navyâs top aviators, Pete âMaverickâ Mitchell (Tom Cruise) is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. When he finds himself training a detachment of Top Gun graduates for a specialized mission the likes of which no living pilot has ever seen, Maverick encounters Lt. Bradley Bradshaw (Miles Teller), call sign: âRooster,â the son of Maverickâs late friend and Radar Intercept Officer Lt. Nick Bradshaw, aka âGoose.â<br>Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.&nbsp;<br>&nbsp;</p>",
-                "description_lang": "$45",
+                "description_lang": "$44",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -74312,7 +73792,7 @@
                         "updateTime": "2026-01-18T16:41:01.156Z"
                     }
                 ],
-                "attr1": "$5:props:children:props:movies:69:attr1",
+                "attr1": "$5:props:children:props:movies:67:attr1",
                 "attr2": null,
                 "attr3": null,
                 "attr4": null,
@@ -74367,7 +73847,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74416,7 +73896,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74465,7 +73945,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74514,7 +73994,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74563,7 +74043,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74612,7 +74092,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -74707,10 +74187,10 @@
             "performance_stats": {
                 "total_shows": 7,
                 "total_seats": 833,
-                "tickets_sold": 52,
-                "unsold_seats": 781,
-                "occupancy_rate": "6.2%",
-                "total_revenue_hkd": 5980
+                "tickets_sold": 53,
+                "unsold_seats": 780,
+                "occupancy_rate": "6.4%",
+                "total_revenue_hkd": 6095
             },
             "shows": [
                 {
@@ -74808,8 +74288,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 4,
-                    "avaliable": 115
+                    "sold": 5,
+                    "avaliable": 114
                 },
                 {
                     "id": 97109,
@@ -75147,10 +74627,10 @@
             "performance_stats": {
                 "total_shows": 1,
                 "total_seats": 261,
-                "tickets_sold": 57,
-                "unsold_seats": 204,
-                "occupancy_rate": "21.8%",
-                "total_revenue_hkd": 6840
+                "tickets_sold": 58,
+                "unsold_seats": 203,
+                "occupancy_rate": "22.2%",
+                "total_revenue_hkd": 6960
             },
             "shows": [
                 {
@@ -75199,8 +74679,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 57,
-                    "avaliable": 204
+                    "sold": 58,
+                    "avaliable": 203
                 }
             ]
         },
@@ -75276,63 +74756,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programKi_c4e8c9bd-de5f-4cfc-9ee7-d176dacdac8d.jpg"
             },
             "performance_stats": {
-                "total_shows": 173,
-                "total_seats": 24741,
+                "total_shows": 172,
+                "total_seats": 24550,
                 "tickets_sold": 275,
-                "unsold_seats": 24466,
+                "unsold_seats": 24275,
                 "occupancy_rate": "1.1%",
-                "total_revenue_hkd": 27065
+                "total_revenue_hkd": 27045
             },
             "shows": [
-                {
-                    "id": 97997,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T16:05:00.000Z",
-                    "price": 110,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 191,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 25
-                    },
-                    "site": {
-                        "id": 3
-                    },
-                    "movie": {
-                        "id": 452,
-                        "openingDate": "2026-04-29T00:00:00.000Z",
-                        "extId": "17895",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "duration": 120,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-29TheDevilWearsPrada2_TrailerB.mp4",
-                        "images": [
-                            "programKi_c4e8c9bd-de5f-4cfc-9ee7-d176dacdac8d.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 6,
-                    "avaliable": 185
-                },
                 {
                     "id": 98219,
                     "published": true,
@@ -75949,8 +75380,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 1,
-                    "avaliable": 145
+                    "sold": 3,
+                    "avaliable": 143
                 },
                 {
                     "id": 98865,
@@ -77370,8 +76801,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 140
+                    "sold": 2,
+                    "avaliable": 138
                 },
                 {
                     "id": 99451,
@@ -83212,8 +82643,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 4,
-                    "avaliable": 181
+                    "sold": 6,
+                    "avaliable": 179
                 },
                 {
                     "id": 98512,
@@ -83869,8 +83300,8 @@
                 "queued": false,
                 "title": "Power To The People: John & Yoko Live in NYC (2026)",
                 "title_lang": "{\"en\":\"Power To The People: John & Yoko Live in NYC (2026)\",\"zh_hk\":\"Power To The People: John & Yoko Live in NYC (2026)\"}",
-                "description": "$46",
-                "description_lang": "$47",
+                "description": "$45",
+                "description_lang": "$46",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -83983,7 +83414,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 10,
                     "avaliable": 64
                 }
@@ -84051,7 +83482,7 @@
                         "updateTime": "2026-01-18T16:41:01.156Z"
                     }
                 ],
-                "attr1": "$5:props:children:props:movies:49:attr1",
+                "attr1": "$5:props:children:props:movies:48:attr1",
                 "attr2": null,
                 "attr3": null,
                 "attr4": null,
@@ -84109,7 +83540,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84160,7 +83591,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84209,7 +83640,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84258,7 +83689,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84307,7 +83738,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84359,7 +83790,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84410,7 +83841,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84459,7 +83890,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84508,7 +83939,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84557,7 +83988,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84609,7 +84040,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84660,7 +84091,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84709,7 +84140,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84758,7 +84189,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -84807,7 +84238,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:49:attr1",
+                        "attr1": "$5:props:children:props:movies:48:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -85860,7 +85291,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1546:note",
+                    "note": "$5:props:children:props:shows:1537:note",
                     "sold": 30,
                     "avaliable": 89
                 }
@@ -85881,8 +85312,8 @@
                 "queued": false,
                 "title": "Assassination Classroom the Movie: Our Time",
                 "title_lang": "{\"en\":\"Assassination Classroom the Movie: Our Time\",\"zh_hk\":\"åå ´çãææ®ºæå®¤ã: æåçæå\"}",
-                "description": "$48",
-                "description_lang": "$49",
+                "description": "$47",
+                "description_lang": "$48",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -86111,7 +85542,7 @@
                 "title": "Michael",
                 "title_lang": "{\"en\":\"Michael\",\"zh_hk\":\"ç±³é«ç©é\"}",
                 "description": "<p><i>Michael</i> is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known.<br><br>The film tells the story of Michael Jacksonâs life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world.<br><br>Highlighting both his life off-stage and some of the most iconic performances from his early solo career, the film gives audiences a front-row seat to Michael Jackson as never before. This is where his story begins.<br>&nbsp;</p>",
-                "description_lang": "$4a",
+                "description_lang": "$49",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -86176,10 +85607,10 @@
             "performance_stats": {
                 "total_shows": 79,
                 "total_seats": 8760,
-                "tickets_sold": 92,
-                "unsold_seats": 8668,
+                "tickets_sold": 94,
+                "unsold_seats": 8666,
                 "occupancy_rate": "1.1%",
-                "total_revenue_hkd": 8165
+                "total_revenue_hkd": 8385
             },
             "shows": [
                 {
@@ -87375,8 +86806,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 136
+                    "sold": 2,
+                    "avaliable": 134
                 },
                 {
                     "id": 99280,
@@ -90128,7 +89559,7 @@
                 "title": "IMAX Michael ",
                 "title_lang": "{\"en\":\"IMAX Michael \",\"zh_hk\":\"IMAX ç±³é«ç©é\"}",
                 "description": "<p><i>Michael</i> is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known.<br><br>The film tells the story of Michael Jacksonâs life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world.<br><br>Highlighting both his life off-stage and some of the most iconic performances from his early solo career, the film gives audiences a front-row seat to Michael Jackson as never before. This is where his story begins.<br>&nbsp;</p>",
-                "description_lang": "$4b",
+                "description_lang": "$4a",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -90364,7 +89795,7 @@
                 "title": "Michael (Atmos)",
                 "title_lang": "{\"en\":\"Michael (Atmos)\",\"zh_hk\":\"ç±³é«ç©é (å¨æ¯è²)\"}",
                 "description": "<p><i>Michael</i> is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known.<br><br>The film tells the story of Michael Jacksonâs life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world.<br><br>Highlighting both his life off-stage and some of the most iconic performances from his early solo career, the film gives audiences a front-row seat to Michael Jackson as never before. This is where his story begins.<br>&nbsp;</p>",
-                "description_lang": "$4c",
+                "description_lang": "$4b",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -90417,7 +89848,7 @@
                         "updateTime": "2026-01-18T16:41:01.156Z"
                     }
                 ],
-                "attr1": "$5:props:children:props:movies:69:attr1",
+                "attr1": "$5:props:children:props:movies:67:attr1",
                 "attr2": null,
                 "attr3": null,
                 "attr4": null,
@@ -90472,7 +89903,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -90521,7 +89952,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -90570,7 +90001,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -90619,7 +90050,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -90668,7 +90099,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:69:attr1",
+                        "attr1": "$5:props:children:props:movies:67:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -90754,65 +90185,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programQm_5d43bbec-3b04-4978-8251-ba9c7f46327b.jpg"
             },
             "performance_stats": {
-                "total_shows": 7,
-                "total_seats": 1008,
-                "tickets_sold": 4,
-                "unsold_seats": 1004,
-                "occupancy_rate": "0.4%",
-                "total_revenue_hkd": 400
+                "total_shows": 6,
+                "total_seats": 951,
+                "tickets_sold": 2,
+                "unsold_seats": 949,
+                "occupancy_rate": "0.2%",
+                "total_revenue_hkd": 210
             },
             "shows": [
-                {
-                    "id": 97805,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-05-17T00:00:00.000Z",
-                    "time": "2026-05-17T15:50:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [
-                        "III"
-                    ],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 57,
-                    "seatsHold": 0,
-                    "house": {
-                        "id": 97
-                    },
-                    "site": {
-                        "id": 9
-                    },
-                    "movie": {
-                        "id": 666,
-                        "openingDate": "2026-04-16T00:00:00.000Z",
-                        "extId": "17976",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "III",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "duration": 133,
-                        "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-16LeeCroninTheMummy_Online.mp4",
-                        "images": [
-                            "programQm_5d43bbec-3b04-4978-8251-ba9c7f46327b.jpg"
-                        ],
-                        "landscapeImages": [],
-                        "tags": [],
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 2,
-                    "avaliable": 55
-                },
                 {
                     "id": 98815,
                     "published": true,
@@ -91893,7 +91273,7 @@
                 "title": "A Pale View of Hills",
                 "title_lang": "{\"en\":\"A Pale View of Hills\",\"zh_hk\":\"ç¾¤å±±æ·¡å½±\"}",
                 "description": "<p>In 1982 England, young writer Niki (Camilla Ako) returns home to visit her mother, Etsuko (Yo Yoshida), who has decided to sell the family house after years of loss. As they sift through old mementoes, memories of post-war Nagasaki 30 years ago resurface. Young Etsuko's (Suzu Hirose) story begins with her encounter with Sachiko (Fumi Nikaido), a mysterious woman longing to start anew abroad with her daughter. As Niki pieces together these recollections, she senses troubling inconsistencies in the story. Adapted from Nobel laureate Kazuo Ishiguroâs work and directed by Kei Ishikawa (A Man), the film weaves dual timelines to portray womenâs struggles in the shadow of war, reflecting the collective trauma of a turbulent age. Un Certain Regard, Cannes.</p><p>&nbsp;</p><p>Un Certain Regard, Cannes Film Festival<br>BFI London Film Festival<br>&nbsp;</p>",
-                "description_lang": "$4d",
+                "description_lang": "$4c",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -91958,10 +91338,10 @@
             "performance_stats": {
                 "total_shows": 7,
                 "total_seats": 833,
-                "tickets_sold": 38,
-                "unsold_seats": 795,
-                "occupancy_rate": "4.6%",
-                "total_revenue_hkd": 2855
+                "tickets_sold": 40,
+                "unsold_seats": 793,
+                "occupancy_rate": "4.8%",
+                "total_revenue_hkd": 3005
             },
             "shows": [
                 {
@@ -92010,8 +91390,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 15,
-                    "avaliable": 104
+                    "sold": 17,
+                    "avaliable": 102
                 },
                 {
                     "id": 97102,
@@ -94132,7 +93512,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:94:attr1",
+                        "attr1": "$5:props:children:props:movies:92:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94181,7 +93561,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:94:attr1",
+                        "attr1": "$5:props:children:props:movies:92:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94232,7 +93612,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:94:attr1",
+                        "attr1": "$5:props:children:props:movies:92:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94281,7 +93661,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:94:attr1",
+                        "attr1": "$5:props:children:props:movies:92:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94332,7 +93712,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:94:attr1",
+                        "attr1": "$5:props:children:props:movies:92:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94381,7 +93761,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:94:attr1",
+                        "attr1": "$5:props:children:props:movies:92:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94394,87 +93774,6 @@
                     "avaliable": 74
                 }
             ]
-        },
-        {
-            "movie_id": 701,
-            "details": {
-                "id": 701,
-                "openingDate": "2026-04-01T00:00:00.000Z",
-                "featured": false,
-                "active": true,
-                "extId": "",
-                "name": "The Super Mario Galaxy Movie(English Version)(Atmos)",
-                "name_lang": "{\"en\":\"The Super Mario Galaxy Movie(English Version)(Atmos)\",\"zh_hk\":\"è¶ç´çªå©æ­éæ²³å¤§é»å½±(è±èªç)(å¨æ¯è²)\"}",
-                "seq": 0,
-                "subseq": 0,
-                "queued": false,
-                "title": "The Super Mario Galaxy Movie(English Version)(Atmos)",
-                "title_lang": "{\"en\":\"The Super Mario Galaxy Movie(English Version)(Atmos)\",\"zh_hk\":\"è¶ç´çªå©æ­éæ²³å¤§é»å½±(è±èªç)(å¨æ¯è²)\"}",
-                "description": "<p>The Super Mario Galaxy Movie is an animated film based on the world of Super Mario Bros., and follows The Super Mario Bros. Movie, which was released in 2023 and earned more than $1.3 billion worldwide. Both the 2023 film and The Super Mario Galaxy Movie are produced by Chris Meledandri of Illumination and Shigeru Miyamoto of Nintendo.</p><p>&nbsp;</p><p>&nbsp;</p>",
-                "description_lang": "{\"en\":\"<p>The Super Mario Galaxy Movie is an animated film based on the world of Super Mario Bros., and follows The Super Mario Bros. Movie, which was released in 2023 and earned more than $1.3 billion worldwide. Both the 2023 film and The Super Mario Galaxy Movie are produced by Chris Meledandri of Illumination and Shigeru Miyamoto of Nintendo.</p><p>&nbsp;</p><p>&nbsp;</p>\",\"zh_hk\":\"<p>å¨çäººæ°£ççãçæ¶è¶é13åç¾åç¥¨æ¿çãè¶ç´çªå©æ­åå¼å¤§é»å½±ãå°æ¨åºçºä½ ââ <strong>ãè¶ç´çªå©æ­éæ²³å¤§é»å½±ã(The Super Mario Galaxy Movie)</strong>ï¼åç­äººé¦¬å¼·å¢åæ­¸ï¼ç¹¼çºç¡éç¬è²åç²¾å½©ï¼ä¸éå°æ¼äºå«éç¦å¤«ãç±³é«ååå°¼åæ¨ç·¨åé¦¬ä¿®éé«äºåº¦è¯æï¼å ä¸Illuminationåºæ¯æ¢åä¸¹å¾·å©ãä»»å¤©å ãçªå©æ­ä¹ç¶ãå®®æ¬èåæ¬¡åé®ï¼åæ±åå³ã<br><br>äººæ°£çççéé³é£å®¹äº¦å¨æ¸åæ­¸ï¼åæ¬ï¼åºæ¯æç¹è²æ¼çªå©æ­ãå®éæ³°èéåè²æ¼ç¢§å§¬å¬ä¸»ãæ¥çä¸¹è²æ¼è·¯æåï¼ä»¥åç©ä¼¯åè²æ¼å¤§é­çåº«å·´ï¼éææåºæ ¹ç±³é«å¥åå¥é²ç±³é«çæ¥æ£®ç­ï¼å¢å¿ä»¤å¤§å®¶ç¡éæ­¡æ¨ï¼</p>\"}",
-                "news": "",
-                "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "nation": null,
-                "category": "I",
-                "category2": null,
-                "dialect": "English",
-                "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                "dialectOther": "",
-                "dialectOther_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "subtitle": "Chinese",
-                "subtitle_lang": "{\"en\":\"Chinese\",\"zh_hk\":\"ä¸­æ\"}",
-                "director": "Aaron Horvath, Michael Jelenic ",
-                "director_lang": "{\"en\":\"Aaron Horvath, Michael Jelenic \",\"zh_hk\":\"äºå«éç¦å¤«ãç±³é«ååå°¼å\"}",
-                "cast": "Voice Cast: Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan- Michael Key, Benny Safdie, Kevin Michael Richardson, Brie Larson",
-                "cast_lang": "{\"en\":\"Voice Cast: Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan- Michael Key, Benny Safdie, Kevin Michael Richardson, Brie Larson\",\"zh_hk\":\"è²æ¼ï¼åºæ¯æç¹ãå®éæ³°èéåãæ¥çä¸¹ãç©ä¼¯åãåºæ ¹ç±³é«å¥ãè³å°¼æ²å¤«è¿ªãå¥é²ç±³é«çæ¥æ£®ãè²åå¨æ£®\"}",
-                "type": null,
-                "duration": 98,
-                "startDate": null,
-                "endDate": null,
-                "date": null,
-                "dateEnd": null,
-                "numSchedules": 0,
-                "website": "",
-                "trailer": "https://trailer.cinema.com.hk/trailer/2026-04-01TheSuperMarioGalaxyMovie_TrailerJ_Eng.mp4",
-                "masterId": "4352",
-                "filmId": "F-5743",
-                "hkta": true,
-                "images": [
-                    "programik_c3054a30-1cc5-4f8b-b6b4-acbba52a4bc4.jpg"
-                ],
-                "landscapeImages": [],
-                "config": null,
-                "tags": [],
-                "updateTime": "2026-03-31T06:23:14.000Z",
-                "createTime": "2026-03-23T11:27:31.380Z",
-                "parent": null,
-                "movieTypes": [
-                    {
-                        "id": 8,
-                        "name": "Animation",
-                        "name_lang": "{\"en\":\"Animation\",\"zh_hk\":\"\"}",
-                        "createTime": "2026-01-18T16:41:01.111Z",
-                        "updateTime": "2026-03-05T07:41:10.000Z"
-                    }
-                ],
-                "attr1": "$5:props:children:props:movies:69:attr1",
-                "attr2": "$5:props:children:props:movies:94:attr1",
-                "attr3": null,
-                "attr4": null,
-                "attr5": null,
-                "note": null,
-                "maxTime": "2026-05-17T05:20:00.000Z",
-                "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programik_c3054a30-1cc5-4f8b-b6b4-acbba52a4bc4.jpg"
-            },
-            "performance_stats": {
-                "total_shows": 0,
-                "total_seats": 0,
-                "tickets_sold": 0,
-                "unsold_seats": 0,
-                "occupancy_rate": "0.0%",
-                "total_revenue_hkd": 0
-            },
-            "shows": []
         },
         {
             "movie_id": 705,
@@ -94605,7 +93904,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:96:attr1",
+                        "attr1": "$5:props:children:props:movies:93:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94656,7 +93955,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:96:attr1",
+                        "attr1": "$5:props:children:props:movies:93:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94707,7 +94006,7 @@
                         ],
                         "landscapeImages": [],
                         "tags": [],
-                        "attr1": "$5:props:children:props:movies:96:attr1",
+                        "attr1": "$5:props:children:props:movies:93:attr1",
                         "attr2": null,
                         "attr3": null,
                         "attr4": null,
@@ -94736,8 +94035,8 @@
                 "queued": false,
                 "title": "Merrily We Roll Along (2026)",
                 "title_lang": "{\"en\":\"Merrily We Roll Along (2026)\",\"zh_hk\":\"æ­¡æ¨æ­²æ(2026) \"}",
-                "description": "$4e",
-                "description_lang": "$4f",
+                "description": "$4d",
+                "description_lang": "$4e",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -94857,7 +94156,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 27,
                     "avaliable": 54
                 },
@@ -94908,7 +94207,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 28,
                     "avaliable": 60
                 }
@@ -94930,7 +94229,7 @@
                 "title": "As the Water Flows",
                 "title_lang": "{\"en\":\"As the Water Flows\",\"zh_hk\":\"ç¿ æ¹\"}",
                 "description": "<p>The debut feature from cinematographer Bian Zhuo won Best Film in the Asian New Talent Competition at the Shanghai International Film Festival. Bian also served as screenwriter, editor and director of photography for this elegiac drama about Xie Shuwen, an elderly widower who considers a new romance one year after the passing of his wife. However, his decision is fraught, sowing discontent among his grown children, complicating a web of family matters, and bringing to light past hardships. Facing emotional difficulties and uncooperative health, Xie strives to heal his family and himself before life's light fades.</p><p>&nbsp;</p><p>Best Film Award, Asian New Talent Competition, Shanghai International Film Festival<br>Vancouver International Film Festival<br>New Talent Award, Hong Kong Asian Film Festival</p>",
-                "description_lang": "$50",
+                "description_lang": "$4f",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -94988,10 +94287,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 238,
-                "tickets_sold": 12,
-                "unsold_seats": 226,
-                "occupancy_rate": "5.0%",
-                "total_revenue_hkd": 1140
+                "tickets_sold": 14,
+                "unsold_seats": 224,
+                "occupancy_rate": "5.9%",
+                "total_revenue_hkd": 1330
             },
             "shows": [
                 {
@@ -95040,8 +94339,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 6,
-                    "avaliable": 113
+                    "sold": 8,
+                    "avaliable": 111
                 },
                 {
                     "id": 95048,
@@ -95109,8 +94408,8 @@
                 "queued": false,
                 "title": "The Secret Agent",
                 "title_lang": "{\"en\":\"The Secret Agent\",\"zh_hk\":\"ç½ªæ¡åå¹´è¯\"}",
-                "description": "$51",
-                "description_lang": "$52",
+                "description": "$50",
+                "description_lang": "$51",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -96354,7 +95653,7 @@
                 "title": "Portrait of a Lady on Fire",
                 "title_lang": "{\"en\":\"Portrait of a Lady on Fire\",\"zh_hk\":\"æµ´ç«çå°å¥³ç«å\"}",
                 "description": "<p>Set in 18th century France, Marianne, a young painter, is commissioned to paint a wedding portrait of a young noblewoman and reluctant bride to be, HeÌloiÌse. Knowing that HeÌloiÌse has just come out of a convent and has previously refused to sit for portraits, Marianne disguises herself as the ladyâs companion by day in order to paint her portrait from memory by night.</p><p>&nbsp;</p><p>Intimacy and attraction grow between the two women, they ignite in each other feelings that are passionate yet forbidden. As they share HeÌloiÌseâs first and last moments of freedom, all whilst Marianne paints the portrait that will end it all. Drawing on the story of Orpheus and Eurydice, director CeÌline Sciamma flips the male gaze in Hitchcockâs Vertigo and presents a film that is based entirely on the female gaze: a gaze of artistic appropriation, of inquisition, and of unstoppable desires.</p>",
-                "description_lang": "$53",
+                "description_lang": "$52",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -96648,10 +95947,10 @@
             "performance_stats": {
                 "total_shows": 3,
                 "total_seats": 222,
-                "tickets_sold": 0,
-                "unsold_seats": 222,
-                "occupancy_rate": "0.0%",
-                "total_revenue_hkd": 0
+                "tickets_sold": 1,
+                "unsold_seats": 221,
+                "occupancy_rate": "0.5%",
+                "total_revenue_hkd": 110
             },
             "shows": [
                 {
@@ -96798,8 +96097,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 74
+                    "sold": 1,
+                    "avaliable": 73
                 }
             ]
         },
@@ -97048,7 +96347,7 @@
                 "title": "HAMNET",
                 "title_lang": "{\"en\":\"HAMNET\",\"zh_hk\":\"åå§å°¼ç¹\"}",
                 "description": "<p>1580 England. Impoverished Latin tutor William Shakespeare meets free-spirited Agnes, and the pair, captivated by one another, strike up a torrid affair that leads to marriage and three children. Yet as Will pursues a budding theater career in far-away London, Agnes anchors the domestic sphere alone. When tragedy strikes, the coupleâs once-unshakable bond is tested, but their shared experience sets the stage for the creation of Shakespeareâs timeless masterpiece, Hamlet. From Focus Features and Academy AwardÂ® winning filmmaker ChloÃ© Zhao (Nomadland, The Rider) comes a sensitively observed, magnificently crafted tale about the complexities of love and the healing power of art and creativity.</p>",
-                "description_lang": "$54",
+                "description_lang": "$53",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -97113,10 +96412,10 @@
             "performance_stats": {
                 "total_shows": 3,
                 "total_seats": 174,
-                "tickets_sold": 3,
-                "unsold_seats": 171,
-                "occupancy_rate": "1.7%",
-                "total_revenue_hkd": 180
+                "tickets_sold": 4,
+                "unsold_seats": 170,
+                "occupancy_rate": "2.3%",
+                "total_revenue_hkd": 240
             },
             "shows": [
                 {
@@ -97168,8 +96467,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 3,
-                    "avaliable": 55
+                    "sold": 4,
+                    "avaliable": 54
                 },
                 {
                     "id": 99579,
@@ -97278,87 +96577,6 @@
             ]
         },
         {
-            "movie_id": 587,
-            "details": {
-                "id": 587,
-                "openingDate": "2026-03-12T00:00:00.000Z",
-                "featured": false,
-                "active": true,
-                "extId": "17950",
-                "name": "Hoppers(Cantonese Version)",
-                "name_lang": "{\"en\":\"Hoppers(Cantonese Version)\",\"zh_hk\":\"ç¸æ³å¥åµ(ç²µèªç)\"}",
-                "seq": 0,
-                "subseq": 0,
-                "queued": false,
-                "title": "Hoppers(Cantonese Version)",
-                "title_lang": "{\"en\":\"Hoppers(Cantonese Version)\",\"zh_hk\":\"ç¸æ³å¥åµ(ç²µèªç)\"}",
-                "description": "<p>What if you could communicate with all kinds of animals and become a part of the animal world?</p><p><br>From the creators that brought you Inside Out and Toy Story, Disney and Pixarâs all-new animated comedy adventure âHoppersâ introduces Mabel, an animal lover who seizes an opportunity to use a new technology to âhopâ her consciousness into a life-like robotic beaver and communicate directly with animals, uncovering mysteries beyond anything she could have imagined.</p>",
-                "description_lang": "{\"en\":\"<p>What if you could communicate with all kinds of animals and become a part of the animal world?</p><p><br>From the creators that brought you Inside Out and Toy Story, Disney and Pixarâs all-new animated comedy adventure âHoppersâ introduces Mabel, an animal lover who seizes an opportunity to use a new technology to âhopâ her consciousness into a life-like robotic beaver and communicate directly with animals, uncovering mysteries beyond anything she could have imagined.</p>\",\"zh_hk\":\"<p>åå¦ä½ è½å¤ ååç¨®åç©æºéï¼æçºåç©ä¸ççä¸ä»½å­ï¼</p><p><br>è¿ªå£«å°¼èå½¼æåä¸åµæççååµéè£½ãç¸æ³å¥åµã3æ12æ¥å¤§éå¹ä¸æ ãé»å½±åæ»¿å½¼æåªæ­¤ä¸å®¶çå¹½é»é¢¨æ ¼å¤ï¼æ´éé©ååºæ¿ãçç¬çª©å¿ï¼ä»¤å¨çç²çµ²ç±åæå¾ï¼ç±æå¤§èªç¶ååç©çç°ä¿å°å¥³ç¾å¯¶ï¼å©ç¨ç§å­¸å®¶å¨æ°ç¼æçãè·³èºå³éæè¡ãï¼ææè­è½ç§»å°ä¸é»è¶èæ©æ¢°æµ·ç¸èº«ä¸ï¼æ½å¥åç©çåï¼ç¼ç¾ä¸çºäººç¥çé©å¤©å¤§ç§å¯ï¼å±éä¸å ´è¶è¶æ³åçåºæ¿åä½æç¬å¤§åéªï¼</p>\"}",
-                "news": "",
-                "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "nation": null,
-                "category": "I",
-                "category2": null,
-                "dialect": "Cantonese",
-                "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
-                "dialectOther": "",
-                "dialectOther_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "subtitle": "No subtitle",
-                "subtitle_lang": "{\"en\":\"No subtitle\",\"zh_hk\":\"ä¸è¨­å­å¹\"}",
-                "director": "Daniel Chong",
-                "director_lang": "{\"en\":\"Daniel Chong\",\"zh_hk\":\"èä¸¹å°¼ç¾\"}",
-                "cast": "",
-                "cast_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "type": null,
-                "duration": 105,
-                "startDate": null,
-                "endDate": null,
-                "date": null,
-                "dateEnd": null,
-                "numSchedules": 0,
-                "website": "",
-                "trailer": "https://trailer.cinema.com.hk/trailer/2026-03-05Hoppers_TrailerC_Cant.mp4",
-                "masterId": "4337",
-                "filmId": "F-5724",
-                "hkta": true,
-                "images": [
-                    "programpl_0f736da1-2d72-435a-af16-49e1869fba27.jpg"
-                ],
-                "landscapeImages": [],
-                "config": null,
-                "tags": [],
-                "updateTime": "2026-03-08T11:42:40.493Z",
-                "createTime": "2026-01-29T09:09:43.601Z",
-                "parent": null,
-                "movieTypes": [
-                    {
-                        "id": 8,
-                        "name": "Animation",
-                        "name_lang": "{\"en\":\"Animation\",\"zh_hk\":\"\"}",
-                        "createTime": "2026-01-18T16:41:01.111Z",
-                        "updateTime": "2026-03-05T07:41:10.000Z"
-                    }
-                ],
-                "attr1": "$5:props:children:props:movies:96:attr1",
-                "attr2": null,
-                "attr3": null,
-                "attr4": null,
-                "attr5": null,
-                "note": null,
-                "maxTime": "2026-05-17T09:55:00.000Z",
-                "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programpl_0f736da1-2d72-435a-af16-49e1869fba27.jpg"
-            },
-            "performance_stats": {
-                "total_shows": 0,
-                "total_seats": 0,
-                "tickets_sold": 0,
-                "unsold_seats": 0,
-                "occupancy_rate": "0.0%",
-                "total_revenue_hkd": 0
-            },
-            "shows": []
-        },
-        {
             "movie_id": 570,
             "details": {
                 "id": 570,
@@ -97373,8 +96591,8 @@
                 "queued": false,
                 "title": "Picnic at Hanging Rock (50th Anniversary 4K Restoration)",
                 "title_lang": "{\"en\":\"Picnic at Hanging Rock (50th Anniversary 4K Restoration)\",\"zh_hk\":\"æ¸å´ä¸çéé¤ (50å¨å¹´4Kä¿®å¾©ç)\"}",
-                "description": "$55",
-                "description_lang": "$56",
+                "description": "$54",
+                "description_lang": "$55",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -97843,7 +97061,7 @@
                 "title": "Farewell to my Concubine (4K Restored Version)",
                 "title_lang": "{\"en\":\"Farewell to my Concubine (4K Restored Version)\",\"zh_hk\":\"é¸çå¥å§¬ (4Kä¿®å¾©ç)\"}",
                 "description": "Douzi, a boy with feminine features, is abandoned by his prostitute mother to an all-boys Peking opera troupe supervised by Master Guan. Douzi befriends fellow trouper Shitou.\n\nA few years later in 1938, a teenage Douzi is trained to play dan (female roles), while Shitou learns jing (painted face male roles). When practicing the play \"Dreaming of the World Outside the Nunnery\", Douzi intentionally mistakes the line \"I am by nature a girl, not a boy\" with \"I am by nature a boy, not a girl,\" subjecting himself to severe physical punishments. Douzi along with another student, Laizi, attempt to run away, but Douzi decides to pursue acting seriously after witnessing an opera performance. Upon returning, they find the whole troupe being punished for their desertion, and Douzi is beaten. As a result, Laizi hangs himself...",
-                "description_lang": "$57",
+                "description_lang": "$56",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -97956,7 +97174,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 7,
                     "avaliable": 120
                 },
@@ -98007,7 +97225,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 3,
                     "avaliable": 124
                 }
@@ -98029,7 +97247,7 @@
                 "title": "HEAT (4K Restoration)",
                 "title_lang": "{\"en\":\"HEAT (4K Restoration)\",\"zh_hk\":\"çç«ç· (4Kä¿®å¾©ç)\"}",
                 "description": "Heat is a gripping crime thriller directed by Michael Mann, starring Academy AwardÂ® winners Al Pacino and Robert De Niro. Neil McCauley (Robert De Niro), a highly skilled and disciplined professional thief who leads a crew specializing in high-stakes heists across Los Angeles. On the other side is Vincent Hanna (Al Pacino), a relentless LAPD detective whose dedication to his job matches McCauleyâs commitment to his criminal craft.\n\nAs McCauley and his crew plan their biggest score yet, Hanna and his team close in, leading to an intense game of cat and mouse. Both men struggle to balance their personal lives with their professional obsessions, blurring the lines between hunter and hunted. The film builds to a climactic confrontation, exploring themes of loyalty, sacrifice, and the thin line separating lawmen from lawbreakers.\n\nRenowned for its realistic action sequences, complex characters, and the legendary face-off between Pacino and De Niro, Heat is considered a landmark in the crime genre.",
-                "description_lang": "$58",
+                "description_lang": "$57",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -98142,7 +97360,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 9,
                     "avaliable": 118
                 },
@@ -98193,7 +97411,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 3,
                     "avaliable": 124
                 }
@@ -98214,8 +97432,8 @@
                 "queued": false,
                 "title": "Michelangelo - Love & Death (EOS 2025)",
                 "title_lang": "{\"en\":\"Michelangelo - Love & Death (EOS 2025)\",\"zh_hk\":\"ç±³é«å®å²ç¾ï¼æèæ­» (EOS 2025)\"}",
-                "description": "$59",
-                "description_lang": "$5a",
+                "description": "$58",
+                "description_lang": "$59",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -98378,7 +97596,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 17,
                     "avaliable": 71
                 }
@@ -98693,7 +97911,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 29,
                     "avaliable": 59
                 },
@@ -98744,7 +97962,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 32,
                     "avaliable": 95
                 },
@@ -98795,7 +98013,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:props:children:props:shows:1544:note",
+                    "note": "$5:props:children:props:shows:1535:note",
                     "sold": 42,
                     "avaliable": 39
                 }
@@ -98816,8 +98034,8 @@
                 "queued": false,
                 "title": "The Visit: Art School Musical 2.0 (Work-in-progress) (On Screen)",
                 "title_lang": "{\"en\":\"The Visit: Art School Musical 2.0 (Work-in-progress) (On Screen)\",\"zh_hk\":\"A.I.æä»£èæ¢ç¥çç¹¼æ¿èåï¼éæ®µå±æ¼ï¼èå°æ ç«\"}",
-                "description": "$5b",
-                "description_lang": "$5c",
+                "description": "$5a",
+                "description_lang": "$5b",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -98939,8 +98157,8 @@
                 "queued": false,
                 "title": "âArt School Musicalâ (On Screen)",
                 "title_lang": "{\"en\":\"âArt School Musicalâ (On Screen)\",\"zh_hk\":\"ãæ¢ç¥çç¹¼æ¿èåã(èå°æ ç«)\"}",
-                "description": "$5d",
-                "description_lang": "$5e",
+                "description": "$5c",
+                "description_lang": "$5d",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -99277,89 +98495,6 @@
             ]
         },
         {
-            "movie_id": 408,
-            "details": {
-                "id": 408,
-                "openingDate": "2026-03-15T00:00:00.000Z",
-                "featured": false,
-                "active": true,
-                "extId": "17854",
-                "name": "The Nutcracker (Paris Opera Ballet 2026) ",
-                "name_lang": "{\"en\":\"The Nutcracker (Paris Opera Ballet 2026) \",\"zh_hk\":\"è¡æ¡å¤¾å­ (Paris Opera Ballet 2026)\"}",
-                "seq": 25,
-                "subseq": 0,
-                "queued": false,
-                "title": "The Nutcracker (Paris Opera Ballet 2026) ",
-                "title_lang": "{\"en\":\"The Nutcracker (Paris Opera Ballet 2026) \",\"zh_hk\":\"è¡æ¡å¤¾å­ (Paris Opera Ballet 2026)\"}",
-                "description": "<p>Broadway Circuit will exclusively present <strong>PARIS OPERA BALLET 2026</strong>&nbsp;on the big screen in cinemas.&nbsp;This season includes: âGiselleâ, âThe Nutcrackerâ and âLe Parcâ.</p><p><br>One Christmas Eve, young Clara is given an inanimate puppet, a nutcracker. Holding it in her arms, she falls asleep and dreams of a fantasy world where toys come to life. Surrounded by toy soldiers, rats, and oversized dolls, and guided by the Nutcracker now Prince, Clara confronts her desires and fears.</p>",
-                "description_lang": "{\"en\":\"<p>Broadway Circuit will exclusively present <strong>PARIS OPERA BALLET 2026</strong>&nbsp;on the big screen in cinemas.&nbsp;This season includes: âGiselleâ, âThe Nutcrackerâ and âLe Parcâ.</p><p><br>One Christmas Eve, young Clara is given an inanimate puppet, a nutcracker. Holding it in her arms, she falls asleep and dreams of a fantasy world where toys come to life. Surrounded by toy soldiers, rats, and oversized dolls, and guided by the Nutcracker now Prince, Clara confronts her desires and fears.</p>\",\"zh_hk\":\"<p>ç¾èå¯æ²é¢å°ç¨å®¶åç»PARIS OPERA BALLET 2025 â 2026å¹´åº¦çè­è¾èç¯ç®ï¼åæ¬ãåè³½ç¾ãããè¡æ¡å¤¾å­ãåãLE PARCãã</p><p><br>ãè¡æ¡å¤¾å­ãè¬è¿°å¨å¯§éçå¹³å®å¤ï¼åææç²è´éäºä¸é»è¡æ¡å¤¾å­ãåææå°è¡æ¡å¤¾å­ç·ç·æ±å¨æ·è£¡ä¸¦é²å¥å¤¢éãå¥¹å¤¢å°ä¸åç©å·è®å¾æ ©æ ©å¦ççå¥å¹»ä¸çãå¨ç©å·å£«åµãèé¼ åè¶å¤§ç©å¶çååä¸ï¼åææå¨æçºçå­çè¡æ¡å¤¾å­çå¼å°ä¸ï¼ç´é¢èªå·±çæ¾æåææ¼ã</p><p><br>Rudolf Nureyevéæ°ææ¼äºéé¨ç¶å¸è­è¾èåï¼å¶ä½æ¯åæè£æ´çªé¡¯äºæäºçç¹å¥æ§ãéªè±ãé®®è±åè¿·äººçé¢¨æ¯æ§æäºä»¤äººç¼è±ç¹äºçèè¹èæ¯ï¼åææçå¤¢å¢å¨æ´å¯å¤«æ¯åºçåªç¾æ¨è­ä¸­æ ©æ ©å¦çå°åç¾ã</p>\"}",
-                "news": "",
-                "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "nation": null,
-                "category": null,
-                "category2": null,
-                "dialect": "",
-                "dialect_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "dialectOther": "",
-                "dialectOther_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "subtitle": "",
-                "subtitle_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "director": "Francois Roussillon",
-                "director_lang": "{\"en\":\"Francois Roussillon\",\"zh_hk\":\"Francois Roussillon\"}",
-                "cast": "DorothÃ©e Gilbert, Guillaume Diop",
-                "cast_lang": "{\"en\":\"DorothÃ©e Gilbert, Guillaume Diop\",\"zh_hk\":\"DorothÃ©e Gilbert, Guillaume Diop\"}",
-                "type": null,
-                "duration": 103,
-                "startDate": null,
-                "endDate": null,
-                "date": null,
-                "dateEnd": null,
-                "numSchedules": 0,
-                "website": "",
-                "trailer": "https://trailer.cinema.com.hk/trailer/2026_TheNutcracker.mp4",
-                "masterId": "",
-                "filmId": "",
-                "hkta": true,
-                "images": [
-                    "programSh_2dcf97d5-5c2c-4bc4-bc13-81a36fc891e7.jpg"
-                ],
-                "landscapeImages": [],
-                "config": null,
-                "tags": [],
-                "updateTime": "2026-02-27T03:08:47.252Z",
-                "createTime": "2025-11-06T08:04:34.000Z",
-                "parent": null,
-                "movieTypes": [
-                    {
-                        "id": 15,
-                        "name": "Music",
-                        "name_lang": "{\"en\":\"Music\",\"zh_hk\":\"\",\"zh_cn\":\"\"}",
-                        "createTime": "2026-01-18T16:41:01.111Z",
-                        "updateTime": "2026-01-18T16:41:01.156Z"
-                    }
-                ],
-                "attr1": null,
-                "attr2": null,
-                "attr3": null,
-                "attr4": null,
-                "attr5": null,
-                "note": {
-                    "id": 4
-                },
-                "maxTime": "2026-05-17T05:10:00.000Z",
-                "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programSh_2dcf97d5-5c2c-4bc4-bc13-81a36fc891e7.jpg"
-            },
-            "performance_stats": {
-                "total_shows": 0,
-                "total_seats": 0,
-                "tickets_sold": 0,
-                "unsold_seats": 0,
-                "occupancy_rate": "0.0%",
-                "total_revenue_hkd": 0
-            },
-            "shows": []
-        },
-        {
             "movie_id": 479,
             "details": {
                 "id": 479,
@@ -99375,7 +98510,7 @@
                 "title": "Wagnerâs Tristan und Isolde (The Met 2026)",
                 "title_lang": "{\"en\":\"Wagnerâs Tristan und Isolde (The Met 2026)\",\"zh_hk\":\"è¯æ ¼ç´ãå´æ¯å¦èä¼ç´¢å¾·ã(The Met 2026)\"}",
                 "description": "<p>After years of anticipation, a truly unmissable event arrives in cinemas as the electrifying Lise Davidsen tackles one of the ultimate roles for dramatic soprano: the Irish princess Isolde in Wagnerâs transcendent meditation on love and death. Heroic tenor Michael Spyres stars opposite Davidsen as the love-drunk Tristan. The momentous occasion also marks the advent of a new, Met-debut staging by Yuval Sharonâhailed by <i>The New York Times</i> as âthe most visionary opera director of his generationâ and the first American to direct an opera at the famed Wagner festival in Bayreuthâas well as Music Director Yannick NÃ©zet-SÃ©guinâs first time leading<i> Tristan und Isolde</i> at the Met. Mezzo-soprano Ekaterina Gubanova reprises her portrayal of BrangÃ¤ne, alongside bass-baritone Tomasz Konieczny, who sings Kurwenal after celebrated Met appearances in Wagnerâs<i> Der Fliegende HollÃ¤nder</i> and <i>Ring cycle</i>. Bass-baritone Ryan Speedo Green makes an important role debut as King Marke.&nbsp;</p>",
-                "description_lang": "$5f",
+                "description_lang": "$5e",
                 "news": "",
                 "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
                 "nation": null,
@@ -99898,87 +99033,6 @@
                     "avaliable": 56
                 }
             ]
-        },
-        {
-            "movie_id": 478,
-            "details": {
-                "id": 478,
-                "openingDate": "2026-05-02T00:00:00.000Z",
-                "featured": false,
-                "active": true,
-                "extId": "",
-                "name": "Belliniâs I Puritani (The Met 2026)",
-                "name_lang": "{\"en\":\"Belliniâs I Puritani (The Met 2026)\",\"zh_hk\":\"è²éå°¼ãæ¸æå¾ã(The Met 2026)\"}",
-                "seq": 26,
-                "subseq": 0,
-                "queued": false,
-                "title": "Belliniâs I Puritani (The Met 2026)",
-                "title_lang": "{\"en\":\"Belliniâs I Puritani (The Met 2026)\",\"zh_hk\":\"è²éå°¼ãæ¸æå¾ã(The Met 2026)\"}",
-                "description": "<p>For gorgeous melody, spellbinding coloratura, and virtuoso vocal fireworks, <i>I Puritani</i> has few equals. The first new Met production of Belliniâs final masterpiece in nearly 50 yearsâa striking staging by Charles Edwards, who makes his company directorial debut after many successes as a set designerâarrives in cinemas worldwide. The Met has assembled a world-beating quartet of stars, conducted by Marco Armiliato, for the demanding principal roles. Soprano Lisette Oropesa and tenor Lawrence Brownlee are Elvira and Arturo, brought together by love and torn apart by the political rifts of the English Civil War, with baritone Ricardo JosÃ© Rivera as Riccardo, betrothed to Elvira against her will, and bass-baritone Christian Van Horn as Elviraâs sympathetic uncle, Giorgio.</p>",
-                "description_lang": "$60",
-                "news": "",
-                "news_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "nation": null,
-                "category": "I",
-                "category2": null,
-                "dialect": "Italian",
-                "dialect_lang": "{\"en\":\"Italian\",\"zh_hk\":\"æå¤§å©èª\"}",
-                "dialectOther": "",
-                "dialectOther_lang": "{\"en\":\"\",\"zh_hk\":\"\"}",
-                "subtitle": "English",
-                "subtitle_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                "director": "Charles Edwards",
-                "director_lang": "{\"en\":\"Charles Edwards\",\"zh_hk\":\"æ¥ç¾æ¯ï¼æå¾·è¯è²\"}",
-                "cast": "Lisette Oropesa, Lawrence Brownlee, Ricardo JosÃ© Rivera, Christian Van Horn",
-                "cast_lang": "{\"en\":\"Lisette Oropesa, Lawrence Brownlee, Ricardo JosÃ© Rivera, Christian Van Horn\",\"zh_hk\":\"èå¡ç¹ï¼å¥§ç¾ä½©è©ãåå«æ¯ï¼å¸æå©ãéå¡å¤ï¼ä½å¡ï¼è£¡ç¶­æãåéæ¯èå®ï¼ç¯éæ©\"}",
-                "type": null,
-                "duration": 226,
-                "startDate": null,
-                "endDate": null,
-                "date": null,
-                "dateEnd": null,
-                "numSchedules": 0,
-                "website": "",
-                "trailer": "https://trailer.cinema.com.hk/trailer/2026_IPuritani.mp4",
-                "masterId": "",
-                "filmId": "",
-                "hkta": true,
-                "images": [
-                    "programkj_2ca783a8-6e43-46e5-80de-dc014a85f9ee.png"
-                ],
-                "landscapeImages": [],
-                "config": null,
-                "tags": [],
-                "updateTime": "2026-05-01T02:54:04.277Z",
-                "createTime": "2025-12-08T04:55:59.000Z",
-                "parent": null,
-                "movieTypes": [
-                    {
-                        "id": 15,
-                        "name": "Music",
-                        "name_lang": "{\"en\":\"Music\",\"zh_hk\":\"\",\"zh_cn\":\"\"}",
-                        "createTime": "2026-01-18T16:41:01.111Z",
-                        "updateTime": "2026-01-18T16:41:01.156Z"
-                    }
-                ],
-                "attr1": null,
-                "attr2": null,
-                "attr3": null,
-                "attr4": null,
-                "attr5": null,
-                "note": null,
-                "maxTime": "2026-05-17T07:15:00.000Z",
-                "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programkj_2ca783a8-6e43-46e5-80de-dc014a85f9ee.png"
-            },
-            "performance_stats": {
-                "total_shows": 0,
-                "total_seats": 0,
-                "tickets_sold": 0,
-                "unsold_seats": 0,
-                "occupancy_rate": "0.0%",
-                "total_revenue_hkd": 0
-            },
-            "shows": []
         }
     ]
 }
