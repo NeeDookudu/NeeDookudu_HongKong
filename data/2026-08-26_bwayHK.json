@@ -1,5 +1,5 @@
 {
-    "scraped_at": "2026-08-26T11:26:14.124642",
+    "scraped_at": "2026-08-26T11:55:58.334942",
     "total_movies": 179,
     "movies": [
         {
@@ -352,219 +352,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programdq_4f803465-91ce-4def-a89e-0e08d72e37fe.jpg"
             },
             "performance_stats": {
-                "total_shows": 144,
-                "total_seats": 21347,
-                "tickets_sold": 306,
-                "unsold_seats": 21041,
-                "occupancy_rate": "1.4%",
-                "total_revenue_hkd": 37325
+                "total_shows": 139,
+                "total_seats": 20535,
+                "tickets_sold": 260,
+                "unsold_seats": 20275,
+                "occupancy_rate": "1.3%",
+                "total_revenue_hkd": 31950
             },
             "shows": [
-                {
-                    "id": 146200,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:30:00.000Z",
-                    "price": 115,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 193,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 28
-                    },
-                    "site": {
-                        "id": 11
-                    },
-                    "movie": {
-                        "id": 835,
-                        "extId": "",
-                        "seq": -40,
-                        "subseq": -97,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 10,
-                    "avaliable": 183
-                },
-                {
-                    "id": 146481,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:30:00.000Z",
-                    "price": 110,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 113,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 111
-                    },
-                    "site": {
-                        "id": 13
-                    },
-                    "movie": {
-                        "id": 835,
-                        "extId": "",
-                        "seq": -40,
-                        "subseq": -97,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 14,
-                    "avaliable": 99
-                },
-                {
-                    "id": 146895,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 120,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 108,
-                    "seatsHold": 7,
-                    "house": {
-                        "id": 103
-                    },
-                    "site": {
-                        "id": 10
-                    },
-                    "movie": {
-                        "id": 835,
-                        "extId": "",
-                        "seq": -40,
-                        "subseq": -97,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 12,
-                    "avaliable": 96
-                },
-                {
-                    "id": 147008,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 125,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 251,
-                    "seatsHold": 33,
-                    "house": {
-                        "id": 107
-                    },
-                    "site": {
-                        "id": 12
-                    },
-                    "movie": {
-                        "id": 835,
-                        "extId": "",
-                        "seq": -40,
-                        "subseq": -97,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 9,
-                    "avaliable": 242
-                },
-                {
-                    "id": 147209,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 130,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 147,
-                    "seatsHold": 6,
-                    "house": {
-                        "id": 86
-                    },
-                    "site": {
-                        "id": 7
-                    },
-                    "movie": {
-                        "id": 835,
-                        "extId": "",
-                        "seq": -40,
-                        "subseq": -97,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 6,
-                    "avaliable": 141
-                },
                 {
                     "id": 146846,
                     "published": true,
@@ -603,8 +398,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 15,
-                    "avaliable": 245
+                    "sold": 17,
+                    "avaliable": 243
                 },
                 {
                     "id": 146910,
@@ -619,7 +414,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 108,
-                    "seatsHold": 7,
+                    "seatsHold": 5,
                     "house": {
                         "id": 105
                     },
@@ -726,8 +521,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 140
+                    "sold": 2,
+                    "avaliable": 138
                 },
                 {
                     "id": 146494,
@@ -972,8 +767,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 185
+                    "sold": 1,
+                    "avaliable": 184
                 },
                 {
                     "id": 146890,
@@ -988,7 +783,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 160,
-                    "seatsHold": 7,
+                    "seatsHold": 5,
                     "house": {
                         "id": 102
                     },
@@ -6414,219 +6209,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programCu_70031bb9-db7e-4499-a1f9-18612d30f90d.jpg"
             },
             "performance_stats": {
-                "total_shows": 64,
-                "total_seats": 6916,
-                "tickets_sold": 177,
-                "unsold_seats": 6739,
-                "occupancy_rate": "2.6%",
-                "total_revenue_hkd": 18750
+                "total_shows": 59,
+                "total_seats": 6351,
+                "tickets_sold": 94,
+                "unsold_seats": 6257,
+                "occupancy_rate": "1.5%",
+                "total_revenue_hkd": 9360
             },
             "shows": [
-                {
-                    "id": 146626,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:35:00.000Z",
-                    "price": 130,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 115,
-                    "seatsHold": 8,
-                    "house": {
-                        "id": 3
-                    },
-                    "site": {
-                        "id": 1
-                    },
-                    "movie": {
-                        "id": 1068,
-                        "extId": "",
-                        "seq": -30,
-                        "subseq": -88,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "English,Spanish",
-                        "dialect_lang": "{\"en\":\"English,Spanish\",\"zh_hk\":\"è±æ,è¥¿ç­çèª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 24,
-                    "avaliable": 91
-                },
-                {
-                    "id": 147228,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 110,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 116,
-                    "seatsHold": 6,
-                    "house": {
-                        "id": 83
-                    },
-                    "site": {
-                        "id": 7
-                    },
-                    "movie": {
-                        "id": 1068,
-                        "extId": "",
-                        "seq": -30,
-                        "subseq": -88,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "English,Spanish",
-                        "dialect_lang": "{\"en\":\"English,Spanish\",\"zh_hk\":\"è±æ,è¥¿ç­çèª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 6,
-                    "avaliable": 110
-                },
-                {
-                    "id": 147292,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 119,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 93
-                    },
-                    "site": {
-                        "id": 8
-                    },
-                    "movie": {
-                        "id": 1068,
-                        "extId": "",
-                        "seq": -30,
-                        "subseq": -88,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "English,Spanish",
-                        "dialect_lang": "{\"en\":\"English,Spanish\",\"zh_hk\":\"è±æ,è¥¿ç­çèª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 23,
-                    "avaliable": 96
-                },
-                {
-                    "id": 146060,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:45:00.000Z",
-                    "price": 105,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 116,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 70
-                    },
-                    "site": {
-                        "id": 5
-                    },
-                    "movie": {
-                        "id": 1068,
-                        "extId": "",
-                        "seq": -30,
-                        "subseq": -88,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "English,Spanish",
-                        "dialect_lang": "{\"en\":\"English,Spanish\",\"zh_hk\":\"è±æ,è¥¿ç­çèª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 19,
-                    "avaliable": 97
-                },
-                {
-                    "id": 146304,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:50:00.000Z",
-                    "price": 130,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 99,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 66
-                    },
-                    "site": {
-                        "id": 4
-                    },
-                    "movie": {
-                        "id": 1068,
-                        "extId": "",
-                        "seq": -30,
-                        "subseq": -88,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "English,Spanish",
-                        "dialect_lang": "{\"en\":\"English,Spanish\",\"zh_hk\":\"è±æ,è¥¿ç­çèª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 11,
-                    "avaliable": 88
-                },
                 {
                     "id": 147229,
                     "published": true,
@@ -9719,10 +9309,10 @@
             "performance_stats": {
                 "total_shows": 69,
                 "total_seats": 11568,
-                "tickets_sold": 151,
-                "unsold_seats": 11417,
+                "tickets_sold": 153,
+                "unsold_seats": 11415,
                 "occupancy_rate": "1.3%",
-                "total_revenue_hkd": 12510
+                "total_revenue_hkd": 12630
             },
             "shows": [
                 {
@@ -9766,8 +9356,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 8,
-                    "avaliable": 185
+                    "sold": 9,
+                    "avaliable": 184
                 },
                 {
                     "id": 147651,
@@ -9986,8 +9576,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 5,
-                    "avaliable": 175
+                    "sold": 6,
+                    "avaliable": 174
                 },
                 {
                     "id": 147940,
@@ -15016,10 +14606,10 @@
             "performance_stats": {
                 "total_shows": 14,
                 "total_seats": 4767,
-                "tickets_sold": 214,
-                "unsold_seats": 4553,
-                "occupancy_rate": "4.5%",
-                "total_revenue_hkd": 46360
+                "tickets_sold": 231,
+                "unsold_seats": 4536,
+                "occupancy_rate": "4.8%",
+                "total_revenue_hkd": 50100
             },
             "shows": [
                 {
@@ -15035,7 +14625,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 413,
-                    "seatsHold": 54,
+                    "seatsHold": 50,
                     "house": {
                         "id": 33
                     },
@@ -15060,8 +14650,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 40,
-                    "avaliable": 373
+                    "sold": 44,
+                    "avaliable": 369
                 },
                 {
                     "id": 144759,
@@ -15101,8 +14691,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 67,
-                    "avaliable": 201
+                    "sold": 76,
+                    "avaliable": 192
                 },
                 {
                     "id": 147360,
@@ -15269,8 +14859,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 5,
-                    "avaliable": 263
+                    "sold": 6,
+                    "avaliable": 262
                 },
                 {
                     "id": 147364,
@@ -15519,8 +15109,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 19,
-                    "avaliable": 249
+                    "sold": 22,
+                    "avaliable": 246
                 },
                 {
                     "id": 147313,
@@ -16569,100 +16159,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programiu_2e4f5ebc-55e4-4f94-b734-d13c4a7879ed.jpg"
             },
             "performance_stats": {
-                "total_shows": 61,
-                "total_seats": 6698,
-                "tickets_sold": 113,
-                "unsold_seats": 6585,
+                "total_shows": 59,
+                "total_seats": 6554,
+                "tickets_sold": 114,
+                "unsold_seats": 6440,
                 "occupancy_rate": "1.7%",
-                "total_revenue_hkd": 10355
+                "total_revenue_hkd": 10365
             },
             "shows": [
-                {
-                    "id": 146073,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:35:00.000Z",
-                    "price": 105,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 87,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 72
-                    },
-                    "site": {
-                        "id": 5
-                    },
-                    "movie": {
-                        "id": 1048,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": -81,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "Cantonese,Mandarin",
-                        "dialect_lang": "{\"en\":\"Cantonese,Mandarin\",\"zh_hk\":\"ç²µèª,æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": {
-                            "id": 8
-                        },
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 7,
-                    "avaliable": 80
-                },
-                {
-                    "id": 146861,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:45:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 57,
-                    "seatsHold": 0,
-                    "house": {
-                        "id": 97
-                    },
-                    "site": {
-                        "id": 9
-                    },
-                    "movie": {
-                        "id": 1048,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": -81,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "Cantonese,Mandarin",
-                        "dialect_lang": "{\"en\":\"Cantonese,Mandarin\",\"zh_hk\":\"ç²µèª,æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": {
-                            "id": 8
-                        },
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 4,
-                    "avaliable": 53
-                },
                 {
                     "id": 147188,
                     "published": true,
@@ -16703,8 +16207,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 2,
-                    "avaliable": 72
+                    "sold": 5,
+                    "avaliable": 69
                 },
                 {
                     "id": 146903,
@@ -16719,7 +16223,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 93,
-                    "seatsHold": 7,
+                    "seatsHold": 5,
                     "house": {
                         "id": 104
                     },
@@ -16832,8 +16336,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 88
+                    "sold": 1,
+                    "avaliable": 87
                 },
                 {
                     "id": 147288,
@@ -16875,8 +16379,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 4,
-                    "avaliable": 115
+                    "sold": 6,
+                    "avaliable": 113
                 },
                 {
                     "id": 145956,
@@ -16918,8 +16422,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 1,
-                    "avaliable": 155
+                    "sold": 3,
+                    "avaliable": 153
                 },
                 {
                     "id": 146363,
@@ -18420,8 +17924,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 116
+                    "sold": 3,
+                    "avaliable": 113
                 },
                 {
                     "id": 148221,
@@ -19034,7 +18538,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:961:note",
+                    "note": "$5:1:props:children:props:shows:926:note",
                     "sold": 0,
                     "avaliable": 70
                 },
@@ -19209,9 +18713,9 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:961:note",
-                    "sold": 32,
-                    "avaliable": 87
+                    "note": "$5:1:props:children:props:shows:926:note",
+                    "sold": 33,
+                    "avaliable": 86
                 },
                 {
                     "id": 148199,
@@ -19252,7 +18756,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:961:note",
+                    "note": "$5:1:props:children:props:shows:926:note",
                     "sold": 3,
                     "avaliable": 55
                 }
@@ -19330,178 +18834,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programIs_8751b2cb-1f44-433e-82a6-593a1946e0b8.png"
             },
             "performance_stats": {
-                "total_shows": 73,
-                "total_seats": 9963,
-                "tickets_sold": 327,
-                "unsold_seats": 9636,
-                "occupancy_rate": "3.3%",
-                "total_revenue_hkd": 32280
+                "total_shows": 69,
+                "total_seats": 9565,
+                "tickets_sold": 324,
+                "unsold_seats": 9241,
+                "occupancy_rate": "3.4%",
+                "total_revenue_hkd": 32075
             },
             "shows": [
-                {
-                    "id": 146067,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 105,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 140,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 71
-                    },
-                    "site": {
-                        "id": 5
-                    },
-                    "movie": {
-                        "id": 970,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": -80,
-                        "category": "I",
-                        "category2": null,
-                        "dialect": "Japanese",
-                        "dialect_lang": "{\"en\":\"Japanese\",\"zh_hk\":\"æ¥èª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 13,
-                    "avaliable": 127
-                },
-                {
-                    "id": 146186,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:45:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 82,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 26
-                    },
-                    "site": {
-                        "id": 11
-                    },
-                    "movie": {
-                        "id": 970,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": -80,
-                        "category": "I",
-                        "category2": null,
-                        "dialect": "Japanese",
-                        "dialect_lang": "{\"en\":\"Japanese\",\"zh_hk\":\"æ¥èª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 7,
-                    "avaliable": 75
-                },
-                {
-                    "id": 146388,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:55:00.000Z",
-                    "price": 100,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 118,
-                    "seatsHold": 8,
-                    "house": {
-                        "id": 79
-                    },
-                    "site": {
-                        "id": 6
-                    },
-                    "movie": {
-                        "id": 970,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": -80,
-                        "category": "I",
-                        "category2": null,
-                        "dialect": "Japanese",
-                        "dialect_lang": "{\"en\":\"Japanese\",\"zh_hk\":\"æ¥èª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 12,
-                    "avaliable": 106
-                },
-                {
-                    "id": 147221,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:55:00.000Z",
-                    "price": 110,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 58,
-                    "seatsHold": 6,
-                    "house": {
-                        "id": 84
-                    },
-                    "site": {
-                        "id": 7
-                    },
-                    "movie": {
-                        "id": 970,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": -80,
-                        "category": "I",
-                        "category2": null,
-                        "dialect": "Japanese",
-                        "dialect_lang": "{\"en\":\"Japanese\",\"zh_hk\":\"æ¥èª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 5,
-                    "avaliable": 53
-                },
                 {
                     "id": 146751,
                     "published": true,
@@ -19540,8 +18880,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 19,
-                    "avaliable": 183
+                    "sold": 35,
+                    "avaliable": 167
                 },
                 {
                     "id": 146854,
@@ -19581,8 +18921,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 2,
-                    "avaliable": 68
+                    "sold": 8,
+                    "avaliable": 62
                 },
                 {
                     "id": 147029,
@@ -19843,7 +19183,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 103,
-                    "seatsHold": 6,
+                    "seatsHold": 4,
                     "house": {
                         "id": 42
                     },
@@ -20290,8 +19630,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 7,
-                    "avaliable": 122
+                    "sold": 9,
+                    "avaliable": 120
                 },
                 {
                     "id": 147919,
@@ -20700,8 +20040,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 1,
-                    "avaliable": 102
+                    "sold": 2,
+                    "avaliable": 101
                 },
                 {
                     "id": 147763,
@@ -20987,8 +20327,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 36,
-                    "avaliable": 166
+                    "sold": 40,
+                    "avaliable": 162
                 },
                 {
                     "id": 147438,
@@ -21069,8 +20409,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 57
+                    "sold": 2,
+                    "avaliable": 55
                 },
                 {
                     "id": 147924,
@@ -21696,8 +21036,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 116
+                    "sold": 2,
+                    "avaliable": 114
                 },
                 {
                     "id": 147554,
@@ -22106,8 +21446,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 10,
-                    "avaliable": 130
+                    "sold": 11,
+                    "avaliable": 129
                 },
                 {
                     "id": 147462,
@@ -22433,10 +21773,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 393,
-                "tickets_sold": 203,
-                "unsold_seats": 190,
-                "occupancy_rate": "51.7%",
-                "total_revenue_hkd": 26390
+                "tickets_sold": 205,
+                "unsold_seats": 188,
+                "occupancy_rate": "52.2%",
+                "total_revenue_hkd": 26650
             },
             "shows": [
                 {
@@ -22522,8 +21862,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 91,
-                    "avaliable": 111
+                    "sold": 93,
+                    "avaliable": 109
                 }
             ]
         },
@@ -23095,55 +22435,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programPs_f886331e-1cd1-42bc-ae25-0ea61eb9ec89.png"
             },
             "performance_stats": {
-                "total_shows": 29,
-                "total_seats": 4032,
-                "tickets_sold": 76,
-                "unsold_seats": 3956,
-                "occupancy_rate": "1.9%",
-                "total_revenue_hkd": 6865
+                "total_shows": 28,
+                "total_seats": 3876,
+                "tickets_sold": 70,
+                "unsold_seats": 3806,
+                "occupancy_rate": "1.8%",
+                "total_revenue_hkd": 6085
             },
             "shows": [
-                {
-                    "id": 145955,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:55:00.000Z",
-                    "price": 100,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 156,
-                    "seatsHold": 8,
-                    "house": {
-                        "id": 4
-                    },
-                    "site": {
-                        "id": 2
-                    },
-                    "movie": {
-                        "id": 977,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": -79,
-                        "category": "I",
-                        "category2": null,
-                        "dialect": "Cantonese",
-                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
-                        "attr1": "$5:1:props:children:props:movieAttrs:6",
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 15,
-                    "avaliable": 141
-                },
                 {
                     "id": 146488,
                     "published": true,
@@ -23182,8 +22481,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 3,
-                    "avaliable": 113
+                    "sold": 12,
+                    "avaliable": 104
                 },
                 {
                     "id": 146862,
@@ -24396,10 +23695,10 @@
             "performance_stats": {
                 "total_shows": 49,
                 "total_seats": 4874,
-                "tickets_sold": 112,
-                "unsold_seats": 4762,
+                "tickets_sold": 114,
+                "unsold_seats": 4760,
                 "occupancy_rate": "2.3%",
-                "total_revenue_hkd": 18735
+                "total_revenue_hkd": 18935
             },
             "shows": [
                 {
@@ -24906,8 +24205,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 1,
-                    "avaliable": 17
+                    "sold": 3,
+                    "avaliable": 15
                 },
                 {
                     "id": 147659,
@@ -26531,10 +25830,10 @@
             "performance_stats": {
                 "total_shows": 14,
                 "total_seats": 1871,
-                "tickets_sold": 32,
-                "unsold_seats": 1839,
-                "occupancy_rate": "1.7%",
-                "total_revenue_hkd": 5500
+                "tickets_sold": 34,
+                "unsold_seats": 1837,
+                "occupancy_rate": "1.8%",
+                "total_revenue_hkd": 5860
             },
             "shows": [
                 {
@@ -26575,8 +25874,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 4,
-                    "avaliable": 140
+                    "sold": 6,
+                    "avaliable": 138
                 },
                 {
                     "id": 148071,
@@ -27209,10 +26508,10 @@
             "performance_stats": {
                 "total_shows": 64,
                 "total_seats": 5812,
-                "tickets_sold": 2089,
-                "unsold_seats": 3723,
-                "occupancy_rate": "35.9%",
-                "total_revenue_hkd": 396895
+                "tickets_sold": 2095,
+                "unsold_seats": 3717,
+                "occupancy_rate": "36.0%",
+                "total_revenue_hkd": 398065
             },
             "shows": [
                 {
@@ -27335,8 +26634,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 19,
-                    "avaliable": 102
+                    "sold": 21,
+                    "avaliable": 100
                 },
                 {
                     "id": 145557,
@@ -28290,8 +27589,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 67,
-                    "avaliable": 54
+                    "sold": 69,
+                    "avaliable": 52
                 },
                 {
                     "id": 145618,
@@ -28954,8 +28253,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 16,
-                    "avaliable": 105
+                    "sold": 18,
+                    "avaliable": 103
                 },
                 {
                     "id": 145676,
@@ -30843,7 +30142,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 52,
                     "avaliable": 67
                 }
@@ -31387,7 +30686,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 26,
                     "avaliable": 93
                 }
@@ -31744,7 +31043,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 99,
                     "avaliable": 20
                 }
@@ -32716,7 +32015,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 37,
                     "avaliable": 82
                 }
@@ -35242,7 +34541,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 4,
                     "avaliable": 115
                 },
@@ -35560,7 +34859,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 111,
                     "avaliable": 8
                 },
@@ -35765,7 +35064,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 41,
                     "avaliable": 78
                 }
@@ -36575,7 +35874,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 13,
                     "avaliable": 106
                 }
@@ -37918,10 +37217,10 @@
             "performance_stats": {
                 "total_shows": 4,
                 "total_seats": 512,
-                "tickets_sold": 252,
-                "unsold_seats": 260,
-                "occupancy_rate": "49.2%",
-                "total_revenue_hkd": 25200
+                "tickets_sold": 253,
+                "unsold_seats": 259,
+                "occupancy_rate": "49.4%",
+                "total_revenue_hkd": 25300
             },
             "shows": [
                 {
@@ -38003,8 +37302,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 41,
-                    "avaliable": 106
+                    "sold": 42,
+                    "avaliable": 105
                 },
                 {
                     "id": 140170,
@@ -38585,10 +37884,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 255,
-                "tickets_sold": 97,
-                "unsold_seats": 158,
-                "occupancy_rate": "38.0%",
-                "total_revenue_hkd": 9700
+                "tickets_sold": 98,
+                "unsold_seats": 157,
+                "occupancy_rate": "38.4%",
+                "total_revenue_hkd": 9800
             },
             "shows": [
                 {
@@ -38629,8 +37928,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 63,
-                    "avaliable": 56
+                    "sold": 64,
+                    "avaliable": 55
                 },
                 {
                     "id": 140579,
@@ -39979,10 +39278,10 @@
             "performance_stats": {
                 "total_shows": 1,
                 "total_seats": 127,
-                "tickets_sold": 2,
-                "unsold_seats": 125,
-                "occupancy_rate": "1.6%",
-                "total_revenue_hkd": 380
+                "tickets_sold": 14,
+                "unsold_seats": 113,
+                "occupancy_rate": "11.0%",
+                "total_revenue_hkd": 2660
             },
             "shows": [
                 {
@@ -40023,8 +39322,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 2,
-                    "avaliable": 125
+                    "sold": 14,
+                    "avaliable": 113
                 }
             ]
         },
@@ -42103,10 +41402,10 @@
             "performance_stats": {
                 "total_shows": 3,
                 "total_seats": 354,
-                "tickets_sold": 156,
-                "unsold_seats": 198,
-                "occupancy_rate": "44.1%",
-                "total_revenue_hkd": 15600
+                "tickets_sold": 157,
+                "unsold_seats": 197,
+                "occupancy_rate": "44.4%",
+                "total_revenue_hkd": 15700
             },
             "shows": [
                 {
@@ -42229,8 +41528,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 13,
-                    "avaliable": 75
+                    "sold": 14,
+                    "avaliable": 74
                 }
             ]
         },
@@ -43176,10 +42475,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 255,
-                "tickets_sold": 143,
-                "unsold_seats": 112,
-                "occupancy_rate": "56.1%",
-                "total_revenue_hkd": 14300
+                "tickets_sold": 145,
+                "unsold_seats": 110,
+                "occupancy_rate": "56.9%",
+                "total_revenue_hkd": 14500
             },
             "shows": [
                 {
@@ -43220,8 +42519,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 60,
-                    "avaliable": 59
+                    "sold": 62,
+                    "avaliable": 57
                 },
                 {
                     "id": 140580,
@@ -45012,10 +44311,10 @@
             "performance_stats": {
                 "total_shows": 3,
                 "total_seats": 564,
-                "tickets_sold": 0,
-                "unsold_seats": 564,
-                "occupancy_rate": "0.0%",
-                "total_revenue_hkd": 0
+                "tickets_sold": 2,
+                "unsold_seats": 562,
+                "occupancy_rate": "0.4%",
+                "total_revenue_hkd": 380
             },
             "shows": [
                 {
@@ -45056,8 +44355,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 290
+                    "sold": 2,
+                    "avaliable": 288
                 },
                 {
                     "id": 148283,
@@ -47107,10 +46406,10 @@
             "performance_stats": {
                 "total_shows": 1,
                 "total_seats": 147,
-                "tickets_sold": 49,
-                "unsold_seats": 98,
-                "occupancy_rate": "33.3%",
-                "total_revenue_hkd": 10290
+                "tickets_sold": 51,
+                "unsold_seats": 96,
+                "occupancy_rate": "34.7%",
+                "total_revenue_hkd": 10710
             },
             "shows": [
                 {
@@ -47151,8 +46450,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 49,
-                    "avaliable": 98
+                    "sold": 51,
+                    "avaliable": 96
                 }
             ]
         },
@@ -47230,10 +46529,10 @@
             "performance_stats": {
                 "total_shows": 7,
                 "total_seats": 833,
-                "tickets_sold": 641,
-                "unsold_seats": 192,
-                "occupancy_rate": "77.0%",
-                "total_revenue_hkd": 59315
+                "tickets_sold": 643,
+                "unsold_seats": 190,
+                "occupancy_rate": "77.2%",
+                "total_revenue_hkd": 59505
             },
             "shows": [
                 {
@@ -47253,7 +46552,7 @@
                         "III"
                     ],
                     "seats": 119,
-                    "seatsHold": 10,
+                    "seatsHold": 9,
                     "house": {
                         "id": 93
                     },
@@ -47278,8 +46577,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 107,
-                    "avaliable": 12
+                    "sold": 109,
+                    "avaliable": 10
                 },
                 {
                     "id": 147236,
@@ -47644,10 +46943,10 @@
             "performance_stats": {
                 "total_shows": 41,
                 "total_seats": 4062,
-                "tickets_sold": 1023,
-                "unsold_seats": 3039,
-                "occupancy_rate": "25.2%",
-                "total_revenue_hkd": 148430
+                "tickets_sold": 1036,
+                "unsold_seats": 3026,
+                "occupancy_rate": "25.5%",
+                "total_revenue_hkd": 150215
             },
             "shows": [
                 {
@@ -47731,8 +47030,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 3,
-                    "avaliable": 91
+                    "sold": 6,
+                    "avaliable": 88
                 },
                 {
                     "id": 148122,
@@ -47895,8 +47194,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 56,
-                    "avaliable": 63
+                    "sold": 58,
+                    "avaliable": 61
                 },
                 {
                     "id": 138279,
@@ -47936,8 +47235,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 49,
-                    "avaliable": 67
+                    "sold": 52,
+                    "avaliable": 64
                 },
                 {
                     "id": 138209,
@@ -48348,8 +47647,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 48,
-                    "avaliable": 50
+                    "sold": 49,
+                    "avaliable": 49
                 },
                 {
                     "id": 138215,
@@ -48594,8 +47893,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 48,
-                    "avaliable": 68
+                    "sold": 52,
+                    "avaliable": 64
                 },
                 {
                     "id": 138218,
@@ -50129,56 +49428,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programwm_9d76b429-1ebc-4e5e-a0fc-fa4074e7dead.jpg"
             },
             "performance_stats": {
-                "total_shows": 1,
-                "total_seats": 119,
-                "tickets_sold": 114,
-                "unsold_seats": 5,
-                "occupancy_rate": "95.8%",
-                "total_revenue_hkd": 10830
+                "total_shows": 0,
+                "total_seats": 0,
+                "tickets_sold": 0,
+                "unsold_seats": 0,
+                "occupancy_rate": "0.0%",
+                "total_revenue_hkd": 0
             },
-            "shows": [
-                {
-                    "id": 63515,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": "2026-03-17T07:00:00.000Z",
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": true,
-                    "manualTags": [],
-                    "seats": 119,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 96
-                    },
-                    "site": {
-                        "id": 8
-                    },
-                    "movie": {
-                        "id": 646,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "German",
-                        "dialect_lang": "{\"en\":\"German\",\"zh_hk\":\"å¾·èª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 114,
-                    "avaliable": 5
-                }
-            ]
+            "shows": []
         },
         {
             "movie_id": 1132,
@@ -50586,10 +49843,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 314,
-                "tickets_sold": 161,
-                "unsold_seats": 153,
-                "occupancy_rate": "51.3%",
-                "total_revenue_hkd": 16100
+                "tickets_sold": 163,
+                "unsold_seats": 151,
+                "occupancy_rate": "51.9%",
+                "total_revenue_hkd": 16300
             },
             "shows": [
                 {
@@ -50674,9 +49931,9 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1156:note",
-                    "sold": 83,
-                    "avaliable": 114
+                    "note": "$5:1:props:children:props:shows:1121:note",
+                    "sold": 85,
+                    "avaliable": 112
                 }
             ]
         },
@@ -50756,10 +50013,10 @@
             "performance_stats": {
                 "total_shows": 2,
                 "total_seats": 314,
-                "tickets_sold": 134,
-                "unsold_seats": 180,
-                "occupancy_rate": "42.7%",
-                "total_revenue_hkd": 13400
+                "tickets_sold": 136,
+                "unsold_seats": 178,
+                "occupancy_rate": "43.3%",
+                "total_revenue_hkd": 13600
             },
             "shows": [
                 {
@@ -50844,9 +50101,9 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1156:note",
-                    "sold": 64,
-                    "avaliable": 133
+                    "note": "$5:1:props:children:props:shows:1121:note",
+                    "sold": 66,
+                    "avaliable": 131
                 }
             ]
         },
@@ -51556,10 +50813,10 @@
             "performance_stats": {
                 "total_shows": 1,
                 "total_seats": 113,
-                "tickets_sold": 12,
-                "unsold_seats": 101,
-                "occupancy_rate": "10.6%",
-                "total_revenue_hkd": 1200
+                "tickets_sold": 13,
+                "unsold_seats": 100,
+                "occupancy_rate": "11.5%",
+                "total_revenue_hkd": 1300
             },
             "shows": [
                 {
@@ -51600,8 +50857,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 12,
-                    "avaliable": 101
+                    "sold": 13,
+                    "avaliable": 100
                 }
             ]
         },
@@ -51726,7 +50983,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 17,
                     "avaliable": 64
                 }
@@ -52167,7 +51424,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 85,
                     "avaliable": 42
                 },
@@ -52210,7 +51467,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1275:note",
+                    "note": "$5:1:props:children:props:shows:1240:note",
                     "sold": 60,
                     "avaliable": 57
                 }
@@ -52526,137 +51783,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programJs_075b68d8-4330-4f4f-8851-a6febaa37c9d.jpg"
             },
             "performance_stats": {
-                "total_shows": 55,
-                "total_seats": 8689,
-                "tickets_sold": 110,
-                "unsold_seats": 8579,
-                "occupancy_rate": "1.3%",
-                "total_revenue_hkd": 11470
+                "total_shows": 52,
+                "total_seats": 8220,
+                "tickets_sold": 91,
+                "unsold_seats": 8129,
+                "occupancy_rate": "1.1%",
+                "total_revenue_hkd": 9500
             },
             "shows": [
-                {
-                    "id": 146207,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 93,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 29
-                    },
-                    "site": {
-                        "id": 11
-                    },
-                    "movie": {
-                        "id": 971,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 12,
-                    "avaliable": 81
-                },
-                {
-                    "id": 146362,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:45:00.000Z",
-                    "price": 100,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 116,
-                    "seatsHold": 8,
-                    "house": {
-                        "id": 75
-                    },
-                    "site": {
-                        "id": 6
-                    },
-                    "movie": {
-                        "id": 971,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 5,
-                    "avaliable": 111
-                },
-                {
-                    "id": 146839,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:50:00.000Z",
-                    "price": 105,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 260,
-                    "seatsHold": 14,
-                    "house": {
-                        "id": 100
-                    },
-                    "site": {
-                        "id": 9
-                    },
-                    "movie": {
-                        "id": 971,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIB",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 14,
-                    "avaliable": 246
-                },
                 {
                     "id": 147022,
                     "published": true,
@@ -52695,8 +51829,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 10,
-                    "avaliable": 182
+                    "sold": 20,
+                    "avaliable": 172
                 },
                 {
                     "id": 146632,
@@ -52793,7 +51927,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 108,
-                    "seatsHold": 7,
+                    "seatsHold": 5,
                     "house": {
                         "id": 103
                     },
@@ -54376,8 +53510,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 96
+                    "sold": 2,
+                    "avaliable": 94
                 },
                 {
                     "id": 148029,
@@ -54881,10 +54015,10 @@
             "performance_stats": {
                 "total_shows": 29,
                 "total_seats": 4181,
-                "tickets_sold": 100,
-                "unsold_seats": 4081,
-                "occupancy_rate": "2.4%",
-                "total_revenue_hkd": 9280
+                "tickets_sold": 108,
+                "unsold_seats": 4073,
+                "occupancy_rate": "2.6%",
+                "total_revenue_hkd": 10080
             },
             "shows": [
                 {
@@ -54925,8 +54059,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 3,
-                    "avaliable": 116
+                    "sold": 11,
+                    "avaliable": 108
                 },
                 {
                     "id": 148120,
@@ -56212,7 +55346,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 98,
-                    "seatsHold": 7,
+                    "seatsHold": 5,
                     "house": {
                         "id": 34
                     },
@@ -57465,10 +56599,10 @@
             "performance_stats": {
                 "total_shows": 7,
                 "total_seats": 624,
-                "tickets_sold": 9,
-                "unsold_seats": 615,
-                "occupancy_rate": "1.4%",
-                "total_revenue_hkd": 955
+                "tickets_sold": 10,
+                "unsold_seats": 614,
+                "occupancy_rate": "1.6%",
+                "total_revenue_hkd": 1090
             },
             "shows": [
                 {
@@ -57509,8 +56643,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 1,
-                    "avaliable": 97
+                    "sold": 2,
+                    "avaliable": 96
                 },
                 {
                     "id": 147222,
@@ -58215,96 +57349,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programKs_c0cc530d-7b4d-4e77-b6e1-e5a9c435d5fd.jpg"
             },
             "performance_stats": {
-                "total_shows": 62,
-                "total_seats": 8755,
-                "tickets_sold": 65,
-                "unsold_seats": 8690,
-                "occupancy_rate": "0.7%",
-                "total_revenue_hkd": 6225
+                "total_shows": 60,
+                "total_seats": 8531,
+                "tickets_sold": 55,
+                "unsold_seats": 8476,
+                "occupancy_rate": "0.6%",
+                "total_revenue_hkd": 4925
             },
             "shows": [
-                {
-                    "id": 146297,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 130,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 88,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 21
-                    },
-                    "site": {
-                        "id": 4
-                    },
-                    "movie": {
-                        "id": 972,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 10,
-                    "avaliable": 78
-                },
-                {
-                    "id": 147181,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:45:00.000Z",
-                    "price": 110,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 136,
-                    "seatsHold": 6,
-                    "house": {
-                        "id": 91
-                    },
-                    "site": {
-                        "id": 7
-                    },
-                    "movie": {
-                        "id": 972,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "English",
-                        "dialect_lang": "{\"en\":\"English\",\"zh_hk\":\"è±æ\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 0,
-                    "avaliable": 136
-                },
                 {
                     "id": 146832,
                     "published": true,
@@ -58441,7 +57493,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 98,
-                    "seatsHold": 7,
+                    "seatsHold": 5,
                     "house": {
                         "id": 34
                     },
@@ -60964,55 +60016,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programMs_0b2a66c0-8c42-45b1-a52d-bbae62bd761f.jpg"
             },
             "performance_stats": {
-                "total_shows": 31,
-                "total_seats": 4025,
-                "tickets_sold": 97,
-                "unsold_seats": 3928,
-                "occupancy_rate": "2.4%",
-                "total_revenue_hkd": 8545
+                "total_shows": 30,
+                "total_seats": 3896,
+                "tickets_sold": 90,
+                "unsold_seats": 3806,
+                "occupancy_rate": "2.3%",
+                "total_revenue_hkd": 7855
             },
             "shows": [
-                {
-                    "id": 146193,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:50:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 129,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 27
-                    },
-                    "site": {
-                        "id": 11
-                    },
-                    "movie": {
-                        "id": 974,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "I",
-                        "category2": null,
-                        "dialect": "Cantonese",
-                        "dialect_lang": "{\"en\":\"Cantonese\",\"zh_hk\":\"ç²µèª\"}",
-                        "attr1": "$5:1:props:children:props:movieAttrs:6",
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 14,
-                    "avaliable": 115
-                },
                 {
                     "id": 146500,
                     "published": true,
@@ -61051,8 +60062,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 5,
-                    "avaliable": 210
+                    "sold": 8,
+                    "avaliable": 207
                 },
                 {
                     "id": 146883,
@@ -61092,8 +60103,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 22,
-                    "avaliable": 81
+                    "sold": 25,
+                    "avaliable": 78
                 },
                 {
                     "id": 147505,
@@ -61551,8 +60562,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 4,
-                    "avaliable": 113
+                    "sold": 5,
+                    "avaliable": 112
                 },
                 {
                     "id": 147568,
@@ -62423,301 +61434,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programAu_b3463d8f-efb6-46b1-ac73-cbec0650bfe1.jpg"
             },
             "performance_stats": {
-                "total_shows": 112,
-                "total_seats": 18579,
-                "tickets_sold": 311,
-                "unsold_seats": 18268,
-                "occupancy_rate": "1.7%",
-                "total_revenue_hkd": 27190
+                "total_shows": 105,
+                "total_seats": 17442,
+                "tickets_sold": 221,
+                "unsold_seats": 17221,
+                "occupancy_rate": "1.3%",
+                "total_revenue_hkd": 17165
             },
             "shows": [
-                {
-                    "id": 146315,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:35:00.000Z",
-                    "price": 130,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 98,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 68
-                    },
-                    "site": {
-                        "id": 4
-                    },
-                    "movie": {
-                        "id": 1066,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "Mandarin",
-                        "dialect_lang": "{\"en\":\"Mandarin\",\"zh_hk\":\"æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 11,
-                    "avaliable": 87
-                },
-                {
-                    "id": 146493,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:35:00.000Z",
-                    "price": 80,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 180,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 113
-                    },
-                    "site": {
-                        "id": 13
-                    },
-                    "movie": {
-                        "id": 1066,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "Mandarin",
-                        "dialect_lang": "{\"en\":\"Mandarin\",\"zh_hk\":\"æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 13,
-                    "avaliable": 167
-                },
-                {
-                    "id": 146214,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:40:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 138,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 106
-                    },
-                    "site": {
-                        "id": 11
-                    },
-                    "movie": {
-                        "id": 1066,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "Mandarin",
-                        "dialect_lang": "{\"en\":\"Mandarin\",\"zh_hk\":\"æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 7,
-                    "avaliable": 131
-                },
-                {
-                    "id": 146637,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:45:00.000Z",
-                    "price": 130,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 113,
-                    "seatsHold": 8,
-                    "house": {
-                        "id": 6
-                    },
-                    "site": {
-                        "id": 1
-                    },
-                    "movie": {
-                        "id": 1066,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "Mandarin",
-                        "dialect_lang": "{\"en\":\"Mandarin\",\"zh_hk\":\"æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 29,
-                    "avaliable": 84
-                },
-                {
-                    "id": 146877,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:45:00.000Z",
-                    "price": 100,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 160,
-                    "seatsHold": 10,
-                    "house": {
-                        "id": 41
-                    },
-                    "site": {
-                        "id": 10
-                    },
-                    "movie": {
-                        "id": 1066,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "Mandarin",
-                        "dialect_lang": "{\"en\":\"Mandarin\",\"zh_hk\":\"æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 14,
-                    "avaliable": 146
-                },
-                {
-                    "id": 146766,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:50:00.000Z",
-                    "price": 110,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 197,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 115
-                    },
-                    "site": {
-                        "id": 3
-                    },
-                    "movie": {
-                        "id": 1066,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "Mandarin",
-                        "dialect_lang": "{\"en\":\"Mandarin\",\"zh_hk\":\"æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 18,
-                    "avaliable": 179
-                },
-                {
-                    "id": 147015,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:50:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": null,
-                    "seats": 251,
-                    "seatsHold": 33,
-                    "house": {
-                        "id": 108
-                    },
-                    "site": {
-                        "id": 12
-                    },
-                    "movie": {
-                        "id": 1066,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "Mandarin",
-                        "dialect_lang": "{\"en\":\"Mandarin\",\"zh_hk\":\"æ®éè©±\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 5,
-                    "avaliable": 246
-                },
                 {
                     "id": 146074,
                     "published": true,
@@ -62895,7 +61619,7 @@
                     "useManualTags": false,
                     "manualTags": [],
                     "seats": 160,
-                    "seatsHold": 10,
+                    "seatsHold": 8,
                     "house": {
                         "id": 41
                     },
@@ -65391,8 +64115,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 3,
-                    "avaliable": 194
+                    "sold": 5,
+                    "avaliable": 192
                 },
                 {
                     "id": 148011,
@@ -66520,8 +65244,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 6,
-                    "avaliable": 75
+                    "sold": 10,
+                    "avaliable": 71
                 },
                 {
                     "id": 147327,
@@ -66643,8 +65367,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 8,
-                    "avaliable": 185
+                    "sold": 9,
+                    "avaliable": 184
                 },
                 {
                     "id": 147967,
@@ -68546,56 +67270,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programJu_82d1b32a-3d84-4542-aa56-2119e7c4b16f.jpg"
             },
             "performance_stats": {
-                "total_shows": 1,
-                "total_seats": 127,
-                "tickets_sold": 77,
-                "unsold_seats": 50,
-                "occupancy_rate": "60.6%",
-                "total_revenue_hkd": 7315
+                "total_shows": 0,
+                "total_seats": 0,
+                "tickets_sold": 0,
+                "unsold_seats": 0,
+                "occupancy_rate": "0.0%",
+                "total_revenue_hkd": 0
             },
-            "shows": [
-                {
-                    "id": 132711,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": "2026-07-23T07:00:00.000Z",
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:30:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": true,
-                    "manualTags": [],
-                    "seats": 127,
-                    "seatsHold": 6,
-                    "house": {
-                        "id": 85
-                    },
-                    "site": {
-                        "id": 7
-                    },
-                    "movie": {
-                        "id": 1075,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "I",
-                        "category2": null,
-                        "dialect": "Japanese",
-                        "dialect_lang": "{\"en\":\"Japanese\",\"zh_hk\":\"æ¥èª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 77,
-                    "avaliable": 50
-                }
-            ]
+            "shows": []
         },
         {
             "movie_id": 1047,
@@ -68671,10 +67353,10 @@
             "performance_stats": {
                 "total_shows": 8,
                 "total_seats": 952,
-                "tickets_sold": 10,
-                "unsold_seats": 942,
-                "occupancy_rate": "1.1%",
-                "total_revenue_hkd": 950
+                "tickets_sold": 12,
+                "unsold_seats": 940,
+                "occupancy_rate": "1.3%",
+                "total_revenue_hkd": 1140
             },
             "shows": [
                 {
@@ -69008,8 +67690,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 0,
-                    "avaliable": 119
+                    "sold": 2,
+                    "avaliable": 117
                 }
             ]
         },
@@ -69168,55 +67850,14 @@
                 "poster_url": "https://www.cinema.com.hk/revamp/html/images/movie/programts_07589787-f93e-44a5-9959-42304c8e26f9.png"
             },
             "performance_stats": {
-                "total_shows": 5,
-                "total_seats": 595,
-                "tickets_sold": 16,
-                "unsold_seats": 579,
-                "occupancy_rate": "2.7%",
-                "total_revenue_hkd": 1520
+                "total_shows": 4,
+                "total_seats": 476,
+                "tickets_sold": 4,
+                "unsold_seats": 472,
+                "occupancy_rate": "0.8%",
+                "total_revenue_hkd": 380
             },
             "shows": [
-                {
-                    "id": 147281,
-                    "published": true,
-                    "hold": false,
-                    "publishTime": null,
-                    "date": "2026-08-26T00:00:00.000Z",
-                    "time": "2026-08-26T11:45:00.000Z",
-                    "price": 95,
-                    "fbPrice": 0,
-                    "tags": [],
-                    "useManualTags": false,
-                    "manualTags": [],
-                    "seats": 119,
-                    "seatsHold": 4,
-                    "house": {
-                        "id": 95
-                    },
-                    "site": {
-                        "id": 8
-                    },
-                    "movie": {
-                        "id": 955,
-                        "extId": "",
-                        "seq": 0,
-                        "subseq": 0,
-                        "category": "IIA",
-                        "category2": null,
-                        "dialect": "Arabic",
-                        "dialect_lang": "{\"en\":\"Arabic\",\"zh_hk\":\"é¿æä¼¯èª\"}",
-                        "attr1": null,
-                        "attr2": null,
-                        "attr3": null,
-                        "attr4": null,
-                        "attr5": null,
-                        "note": null,
-                        "parent": null
-                    },
-                    "note": null,
-                    "sold": 12,
-                    "avaliable": 107
-                },
                 {
                     "id": 147625,
                     "published": true,
@@ -69711,10 +68352,10 @@
             "performance_stats": {
                 "total_shows": 8,
                 "total_seats": 1234,
-                "tickets_sold": 53,
-                "unsold_seats": 1181,
-                "occupancy_rate": "4.3%",
-                "total_revenue_hkd": 5035
+                "tickets_sold": 54,
+                "unsold_seats": 1180,
+                "occupancy_rate": "4.4%",
+                "total_revenue_hkd": 5130
             },
             "shows": [
                 {
@@ -70018,7 +68659,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:961:note",
+                    "note": "$5:1:props:children:props:shows:926:note",
                     "sold": 42,
                     "avaliable": 77
                 },
@@ -70061,9 +68702,9 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:961:note",
-                    "sold": 6,
-                    "avaliable": 113
+                    "note": "$5:1:props:children:props:shows:926:note",
+                    "sold": 7,
+                    "avaliable": 112
                 }
             ]
         },
@@ -71214,10 +69855,10 @@
             "performance_stats": {
                 "total_shows": 6,
                 "total_seats": 377,
-                "tickets_sold": 11,
-                "unsold_seats": 366,
-                "occupancy_rate": "2.9%",
-                "total_revenue_hkd": 1190
+                "tickets_sold": 13,
+                "unsold_seats": 364,
+                "occupancy_rate": "3.4%",
+                "total_revenue_hkd": 1410
             },
             "shows": [
                 {
@@ -71258,8 +69899,8 @@
                         "parent": null
                     },
                     "note": null,
-                    "sold": 9,
-                    "avaliable": 118
+                    "sold": 11,
+                    "avaliable": 116
                 },
                 {
                     "id": 148117,
@@ -71931,7 +70572,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1156:note",
+                    "note": "$5:1:props:children:props:shows:1121:note",
                     "sold": 19,
                     "avaliable": 62
                 },
@@ -71974,7 +70615,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1156:note",
+                    "note": "$5:1:props:children:props:shows:1121:note",
                     "sold": 25,
                     "avaliable": 63
                 }
@@ -72391,7 +71032,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1156:note",
+                    "note": "$5:1:props:children:props:shows:1121:note",
                     "sold": 39,
                     "avaliable": 88
                 }
@@ -72807,7 +71448,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1156:note",
+                    "note": "$5:1:props:children:props:shows:1121:note",
                     "sold": 55,
                     "avaliable": 26
                 },
@@ -72850,7 +71491,7 @@
                         },
                         "parent": null
                     },
-                    "note": "$5:1:props:children:props:shows:1156:note",
+                    "note": "$5:1:props:children:props:shows:1121:note",
                     "sold": 31,
                     "avaliable": 96
                 }
